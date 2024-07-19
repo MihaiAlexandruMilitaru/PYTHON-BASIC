@@ -10,15 +10,42 @@ Example:
         file1.txt (content: "abc\ndef\nxyz", encoding: UTF-8)
         file2.txt (content: "xyz,def,abc", encoding: CP1252)
 """
+from typing import List
 
 
-def generate_words(n=20):
-    import string
-    import random
+def task_read_write_2(file1, file2)-> List[str]:
 
-    words = list()
-    for _ in range(n):
-        word = ''.join(random.choices(string.ascii_lowercase, k=random.randint(3, 10)))
-        words.append(word)
+    def generate_words(n=20):
+        import string
+        import random
+
+        words = list()
+        for _ in range(n):
+            word = ''.join(random.choices(string.ascii_lowercase, k=random.randint(3, 10)))
+            words.append(word)
+
+        return words
+
+    words = generate_words()
+
+    # write to file1 with UTF-8 encoding
+
+    with open(file1, 'w', encoding='utf-8') as f1:
+        f1.write('\n'.join(words))
+
+    # write to file2 with CP1252 encoding
+
+    with open(file2, 'w', encoding='cp1252') as f2:
+        f2.write(','.join(reversed(words)))
 
     return words
+
+
+
+
+
+if __name__ == '__main__':
+    file1 = 'file1.txt'
+    file2 = 'file2.txt'
+
+    task_read_write_2(file1, file2)

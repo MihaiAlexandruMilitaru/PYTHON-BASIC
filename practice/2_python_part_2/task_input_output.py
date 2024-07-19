@@ -9,8 +9,6 @@ Examples:
     user enters: 1, 2, hello, 2, world
     >>> read_numbers(5)
     Avg: 1.67
-    ------------
-    user enters: hello, world, foo, bar, baz
     >>> read_numbers(5)
     No numbers entered
 
@@ -18,6 +16,18 @@ Examples:
 
 
 def read_numbers(n: int) -> str:
-    ...
+    numbers = []
+    for i in range(n):
+        try:
+            number = int(input())
+            numbers.append(number)
+        except ValueError:
+            pass
+
+    if numbers:
+        avg = sum(numbers) / len(numbers)
+        print(f"Avg: {avg:.2f}")
+    else:
+        print("No numbers entered")
 
 

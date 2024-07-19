@@ -13,7 +13,18 @@ Examples:
     ''
 """
 from typing import Iterable
-
+from collections import OrderedDict
 
 def build_from_unique_words(*lines: Iterable[str], word_number: int) -> str:
-    ...
+    result = []
+    for line in lines:
+        if line:
+            # Split the line into words
+            words = line.split()
+            # Use OrderedDict to remove duplicates while keeping order
+            unique_words = list(OrderedDict.fromkeys(words))
+            if word_number < len(unique_words):
+                result.append(unique_words[word_number])
+    return ' '.join(result)
+
+

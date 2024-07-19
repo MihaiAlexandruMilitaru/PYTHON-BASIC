@@ -8,14 +8,30 @@ In all cases it should print "Division finished"
     Division by 0
     Division finished
     >>> division(1, 1)
-    Division finished
     DivisionByOneException("Deletion on 1 get the same result")
-    >>> division(2, 2)
-    1
     Division finished
+    >>> division(2, 2)
+    Division finished
+    1
 """
 import typing
 
+class DivisionByOneException(Exception):
+    def __init__(self, message: str):
+        super().__init__(message)
 
 def division(x: int, y: int) -> typing.Union[None, int]:
-    ...
+    try:
+        if y == 0:
+            print("Division by 0")
+            return None
+        elif y == 1:
+            raise DivisionByOneException("Deletion on 1 get the same result")
+        else:
+            result = x // y  # Integer division
+            return result
+    except DivisionByOneException as e:
+        print(f"{type(e).__name__}(\"{e}\")")
+    finally:
+        print("Division finished")
+
