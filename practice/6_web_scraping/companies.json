@@ -1,20 +1,52 @@
 [
     {
+        "symbol": "ETRN",
+        "name": "Equitrans Midstream Corporation",
+        "price": "12.42",
+        "change": "+0.07",
+        "change_percentage": "+0.57%",
+        "volume": "194.273M",
+        "avg_volume": "8.874M",
+        "market_cap": "5.427B",
+        "pe_ratio": "13.80",
+        "address": "2200 Energy Drive Canonsburg, PA 15317",
+        "country": "United States",
+        "employees": 773,
+        "52_week_range": "32.69%",
+        "total_cash": "141.88M",
+        "vanguard_value": 680984455,
+        "shares": "54.83M",
+        "date_reported": "Mar 31, 2024",
+        "out": "12.55%",
+        "ceo": [
+            {
+                "name": "Ms. Diana M. Charletta",
+                "title": "CEO, President & Director",
+                "pay": "1.51M",
+                "exercised": "--",
+                "born": "1973"
+            }
+        ]
+    },
+    {
         "symbol": "NVDA",
         "name": "NVIDIA Corporation",
-        "price": "121.09",
-        "change": "+3.10",
-        "change_percentage": "+2.63%",
-        "volume": "316.684M",
-        "avg_volume": "390.688M",
-        "market_cap": "2.979T",
-        "pe_ratio": "70.81",
+        "price": "121.87",
+        "change": "+3.94",
+        "change_percentage": "+3.34%",
+        "volume": "131.375M",
+        "avg_volume": "384.473M",
+        "market_cap": "2.996T",
+        "pe_ratio": "71.22",
         "address": "2788 San Tomas Expressway Santa Clara, CA 95051",
         "country": "United States",
         "employees": 29600,
-        "52_week_range": "173.29%",
+        "52_week_range": "164.35%",
         "total_cash": "31.44B",
-        "vanguard_value": 218513580796,
+        "vanguard_value": 222148696206,
+        "shares": "1.82B",
+        "date_reported": "Mar 31, 2024",
+        "out": "7.41%",
         "ceo": [
             {
                 "name": "Mr. Jen-Hsun  Huang",
@@ -28,19 +60,22 @@
     {
         "symbol": "TSLA",
         "name": "Tesla, Inc.",
-        "price": "249.23",
-        "change": "+0.73",
-        "change_percentage": "+0.29%",
-        "volume": "110.43M",
-        "avg_volume": "99.674M",
-        "market_cap": "794.844B",
-        "pe_ratio": "63.74",
+        "price": "249.29",
+        "change": "+10.09",
+        "change_percentage": "+4.22%",
+        "volume": "55.39M",
+        "avg_volume": "99.351M",
+        "market_cap": "795.036B",
+        "pe_ratio": "63.92",
         "address": "1 Tesla Road Austin, TX 78725",
         "country": "United States",
         "employees": 140473,
-        "52_week_range": "-4.15%",
+        "52_week_range": "-11.10%",
         "total_cash": "26.86B",
-        "vanguard_value": 46832192207,
+        "vanguard_value": 46981004985,
+        "shares": "188.37M",
+        "date_reported": "Mar 31, 2024",
+        "out": "5.91%",
         "ceo": [
             {
                 "name": "Mr. Elon R. Musk",
@@ -52,172 +87,53 @@
         ]
     },
     {
-        "symbol": "PLTR",
-        "name": "Palantir Technologies Inc.",
-        "price": "28.64",
-        "change": "+0.42",
-        "change_percentage": "+1.49%",
-        "volume": "75.604M",
-        "avg_volume": "44.797M",
-        "market_cap": "63.778B",
-        "pe_ratio": "238.67",
-        "address": "1200 17th Street Floor 15 Denver, CO 80202",
+        "symbol": "CRWD",
+        "name": "CrowdStrike Holdings, Inc.",
+        "price": "264.18",
+        "change": "-40.78",
+        "change_percentage": "-13.37%",
+        "volume": "31.123M",
+        "avg_volume": "5.339M",
+        "market_cap": "64.292B",
+        "pe_ratio": "480.33",
+        "address": "206 East 9th Street Suite 1400 Austin, TX 78701",
         "country": "United States",
-        "employees": 3678,
-        "52_week_range": "74.32%",
-        "total_cash": "3.87B",
-        "vanguard_value": 3192297001,
+        "employees": 8429,
+        "52_week_range": "103.66%",
+        "total_cash": "3.7B",
+        "vanguard_value": 4258206206,
+        "shares": "16.13M",
+        "date_reported": "Mar 31, 2024",
+        "out": "6.99%",
         "ceo": [
             {
-                "name": "Dr. Alexander C. Karp",
-                "title": "Co-Founder, CEO & Director",
-                "pay": "3.5M",
-                "exercised": "--",
-                "born": "1967"
-            }
-        ]
-    },
-    {
-        "symbol": "INTC",
-        "name": "Intel Corporation",
-        "price": "34.87",
-        "change": "+0.41",
-        "change_percentage": "+1.19%",
-        "volume": "81.993M",
-        "avg_volume": "48.944M",
-        "market_cap": "148.437B",
-        "pe_ratio": "35.95",
-        "address": "2200 Mission College Boulevard Santa Clara, CA 95054-1549",
-        "country": "United States",
-        "employees": 130700,
-        "52_week_range": "2.50%",
-        "total_cash": "21.31B",
-        "vanguard_value": 11748459050,
-        "ceo": [
-            {
-                "name": "Mr. Patrick P. Gelsinger",
-                "title": "CEO & Director",
-                "pay": "4.32M",
-                "exercised": "--",
-                "born": "1961"
-            },
-            {
-                "name": "Ms. Sandra L. Rivera",
-                "title": "EVP & CEO of Programmable Solutions Group",
-                "pay": "2.1M",
-                "exercised": "--",
-                "born": "1965"
-            }
-        ]
-    },
-    {
-        "symbol": "AMD",
-        "name": "Advanced Micro Devices, Inc.",
-        "price": "155.77",
-        "change": "-3.66",
-        "change_percentage": "-2.30%",
-        "volume": "69.182M",
-        "avg_volume": "51.416M",
-        "market_cap": "251.773B",
-        "pe_ratio": "225.75",
-        "address": "2485 Augustine Drive Santa Clara, CA 95054",
-        "country": "United States",
-        "employees": 26000,
-        "52_week_range": "40.40%",
-        "total_cash": "6.03B",
-        "vanguard_value": 19291009361,
-        "ceo": [
-            {
-                "name": "Dr. Lisa T. Su Ph.D.",
-                "title": "Chair, President & CEO",
-                "pay": "2.66M",
-                "exercised": "120.4M",
-                "born": "1970"
-            }
-        ]
-    },
-    {
-        "symbol": "WBD",
-        "name": "Warner Bros. Discovery, Inc.",
-        "price": "8.52",
-        "change": "+0.20",
-        "change_percentage": "+2.40%",
-        "volume": "58.644M",
-        "avg_volume": "29.671M",
-        "market_cap": "20.877B",
-        "pe_ratio": "N/A",
-        "address": "230 Park Avenue South New York, NY 10003",
-        "country": "United States",
-        "employees": 35300,
-        "52_week_range": "-34.11%",
-        "total_cash": "3.07B",
-        "vanguard_value": 1332732645,
-        "ceo": [
-            {
-                "name": "Mr. David M. Zaslav",
-                "title": "President, CEO & Director",
-                "pay": "26.62M",
-                "exercised": "--",
-                "born": "1960"
-            },
-            {
-                "name": "Mr. Jean-Briac  Perrette",
-                "title": "President and CEO of Global Streaming & Games",
-                "pay": "9.18M",
+                "name": "Mr. George R. Kurtz",
+                "title": "Founder, CEO & Director",
+                "pay": "2.89M",
                 "exercised": "--",
                 "born": "1971"
             }
         ]
     },
     {
-        "symbol": "SOFI",
-        "name": "SoFi Technologies, Inc.",
-        "price": "7.53",
-        "change": "-0.31",
-        "change_percentage": "-3.95%",
-        "volume": "55.544M",
-        "avg_volume": "39.961M",
-        "market_cap": "7.961B",
-        "pe_ratio": "N/A",
-        "address": "234 1st Street San Francisco, CA 94105",
-        "country": "United States",
-        "employees": 4400,
-        "52_week_range": "-20.15%",
-        "total_cash": "3.7B",
-        "vanguard_value": 308690476,
-        "ceo": [
-            {
-                "name": "Mr. Anthony J. Noto",
-                "title": "CEO & Director",
-                "pay": "4.07M",
-                "exercised": "--",
-                "born": "1969"
-            },
-            {
-                "name": "Mr. Derek Jensen White",
-                "title": "CEO of Galileo Financial Technologies & Head of SoFi International",
-                "pay": "1.13M",
-                "exercised": "--",
-                "born": "1973"
-            }
-        ]
-    },
-    {
         "symbol": "F",
         "name": "Ford Motor Company",
-        "price": "14.55",
-        "change": "+0.07",
-        "change_percentage": "+0.48%",
-        "volume": "58.04M",
-        "avg_volume": "48.699M",
-        "market_cap": "57.816B",
-        "pe_ratio": "15.00",
+        "price": "13.99",
+        "change": "+0.02",
+        "change_percentage": "+0.11%",
+        "volume": "29.059M",
+        "avg_volume": "48.524M",
+        "market_cap": "55.611B",
+        "pe_ratio": "14.43",
         "address": "One American Road Dearborn, MI 48126",
         "country": "United States",
         "employees": 177000,
-        "52_week_range": "4.45%",
+        "52_week_range": "0.14%",
         "total_cash": "24.9B",
-        "vanguard_value": 4104713594,
+        "vanguard_value": 3967152311,
+        "shares": "283.57M",
+        "date_reported": "Mar 31, 2024",
+        "out": "7.23%",
         "ceo": [
             {
                 "name": "Mr. James Duncan Farley Jr.",
@@ -229,125 +145,24 @@
         ]
     },
     {
-        "symbol": "AAPL",
-        "name": "Apple Inc.",
-        "price": "224.18",
-        "change": "-4.70",
-        "change_percentage": "-2.05%",
-        "volume": "65.877M",
-        "avg_volume": "68.275M",
-        "market_cap": "3.438T",
-        "pe_ratio": "34.86",
-        "address": "One Apple Park Way Cupertino, CA 95014",
-        "country": "United States",
-        "employees": 150000,
-        "52_week_range": "16.80%",
-        "total_cash": "67.15B",
-        "vanguard_value": 234396632211,
-        "ceo": [
-            {
-                "name": "Mr. Timothy D. Cook",
-                "title": "CEO & Director",
-                "pay": "16.24M",
-                "exercised": "--",
-                "born": "1961"
-            }
-        ]
-    },
-    {
-        "symbol": "TSM",
-        "name": "Taiwan Semiconductor Manufacturing Company Limited",
-        "price": "171.87",
-        "change": "+0.67",
-        "change_percentage": "+0.39%",
-        "volume": "50.767M",
-        "avg_volume": "15.457M",
-        "market_cap": "891.331B",
-        "pe_ratio": "33.31",
-        "address": "Hsinchu Science Park No. 8, Li-Hsin Road 6 Hsinchu City, 300096",
-        "country": "Taiwan",
-        "employees": "--",
-        "52_week_range": "76.73%",
-        "total_cash": "1.92T",
-        "vanguard_value": 2539541366,
-        "ceo": [
-            {
-                "name": "Dr. C. C.  Wei",
-                "title": "Chairman & CEO",
-                "pay": "14.14M",
-                "exercised": "--",
-                "born": "--"
-            }
-        ]
-    },
-    {
-        "symbol": "AAL",
-        "name": "American Airlines Group Inc.",
-        "price": "10.62",
-        "change": "-0.39",
-        "change_percentage": "-3.54%",
-        "volume": "46.693M",
-        "avg_volume": "33.987M",
-        "market_cap": "6.968B",
-        "pe_ratio": "14.96",
-        "address": "1 Skyview Drive Fort Worth, TX 76155",
-        "country": "United States",
-        "employees": 132800,
-        "52_week_range": "-39.04%",
-        "total_cash": "9.1B",
-        "vanguard_value": 418478667,
-        "ceo": [
-            {
-                "name": "Mr. Robert D. Isom Jr.",
-                "title": "CEO, President & Director",
-                "pay": "11.94M",
-                "exercised": "--",
-                "born": "1964"
-            }
-        ]
-    },
-    {
-        "symbol": "AMZN",
-        "name": "Amazon.com, Inc.",
-        "price": "183.75",
-        "change": "-4.18",
-        "change_percentage": "-2.22%",
-        "volume": "50.697M",
-        "avg_volume": "42.034M",
-        "market_cap": "1.912T",
-        "pe_ratio": "51.62",
-        "address": "410 Terry Avenue North Seattle, WA 98109-5210",
-        "country": "United States",
-        "employees": 1525000,
-        "52_week_range": "41.35%",
-        "total_cash": "85.07B",
-        "vanguard_value": 116871492160,
-        "ceo": [
-            {
-                "name": "Mr. Andrew R. Jassy",
-                "title": "President, CEO & Director",
-                "pay": "1.72M",
-                "exercised": "--",
-                "born": "1968"
-            }
-        ]
-    },
-    {
         "symbol": "MARA",
         "name": "Marathon Digital Holdings, Inc.",
-        "price": "23.65",
-        "change": "-1.90",
-        "change_percentage": "-7.44%",
-        "volume": "44.09M",
-        "avg_volume": "48.122M",
-        "market_cap": "6.688B",
-        "pe_ratio": "14.78",
+        "price": "23.94",
+        "change": "-0.79",
+        "change_percentage": "-3.19%",
+        "volume": "28.833M",
+        "avg_volume": "48.023M",
+        "market_cap": "6.77B",
+        "pe_ratio": "14.96",
         "address": "101 NE Third Avenue Suite 1200 Fort Lauderdale, FL 33301",
         "country": "United States",
         "employees": 60,
-        "52_week_range": "40.11%",
+        "52_week_range": "50.61%",
         "total_cash": "324.27M",
-        "vanguard_value": 413941644,
+        "vanguard_value": 412290755,
+        "shares": "17.38M",
+        "date_reported": "Mar 31, 2024",
+        "out": "6.15%",
         "ceo": [
             {
                 "name": "Mr. Frederick G. Thiel",
@@ -359,1501 +174,24 @@
         ]
     },
     {
-        "symbol": "KMI",
-        "name": "Kinder Morgan, Inc.",
-        "price": "21.05",
-        "change": "+0.52",
-        "change_percentage": "+2.53%",
-        "volume": "42.191M",
-        "avg_volume": "13.571M",
-        "market_cap": "46.718B",
-        "pe_ratio": "19.31",
-        "address": "1001 Louisiana Street Suite 1000 Houston, TX 77002",
-        "country": "United States",
-        "employees": 10891,
-        "52_week_range": "18.26%",
-        "total_cash": "98M",
-        "vanguard_value": 3201562723,
-        "ceo": [
-            {
-                "name": "Ms. Kimberly Allen Dang",
-                "title": "CEO & Director",
-                "pay": "1.36M",
-                "exercised": "--",
-                "born": "1970"
-            }
-        ]
-    },
-    {
-        "symbol": "INFY",
-        "name": "Infosys Limited",
-        "price": "22.25",
-        "change": "+1.72",
-        "change_percentage": "+8.38%",
-        "volume": "40.223M",
-        "avg_volume": "10.015M",
-        "market_cap": "92.14B",
-        "pe_ratio": "28.90",
-        "address": "Plot No. 44/97 A 3rd cross Electronic City Hosur Road Bengaluru, 560100",
-        "country": "India",
-        "employees": 317240,
-        "52_week_range": "36.50%",
-        "total_cash": "3.32B",
-        "vanguard_value": 363521385,
-        "ceo": [
-            {
-                "name": "Mr. Salil Satish Parekh",
-                "title": "MD, CEO & Director",
-                "pay": "3.28M",
-                "exercised": "--",
-                "born": "1964"
-            }
-        ]
-    },
-    {
-        "symbol": "LCID",
-        "name": "Lucid Group, Inc.",
-        "price": "3.5700",
-        "change": "-0.2200",
-        "change_percentage": "-5.80%",
-        "volume": "42.248M",
-        "avg_volume": "29.336M",
-        "market_cap": "8.237B",
-        "pe_ratio": "N/A",
-        "address": "7373 Gateway Boulevard Newark, CA 94560",
-        "country": "United States",
-        "employees": 6500,
-        "52_week_range": "-48.03%",
-        "total_cash": "3.99B",
-        "vanguard_value": 142555640,
-        "ceo": [
-            {
-                "name": "Mr. Peter Dore Rawlinson",
-                "title": "CEO, CTO & Director",
-                "pay": "6.84M",
-                "exercised": "610.84k",
-                "born": "1959"
-            }
-        ]
-    },
-    {
-        "symbol": "BAC",
-        "name": "Bank of America Corporation",
-        "price": "43.01",
-        "change": "-0.97",
-        "change_percentage": "-2.21%",
-        "volume": "45.431M",
-        "avg_volume": "35.054M",
-        "market_cap": "334.392B",
-        "pe_ratio": "15.09",
-        "address": "Bank of America Corporate Center 100 North Tryon Street Charlotte, NC 28255",
-        "country": "United States",
-        "employees": 212318,
-        "52_week_range": "34.49%",
-        "total_cash": "1.01T",
-        "vanguard_value": 20920985872,
-        "ceo": [
-            {
-                "name": "Mr. Brian Thomas Moynihan",
-                "title": "Chairman, CEO & President",
-                "pay": "1.89M",
-                "exercised": "--",
-                "born": "1959"
-            }
-        ]
-    },
-    {
-        "symbol": "PFE",
-        "name": "Pfizer Inc.",
-        "price": "29.71",
-        "change": "-0.32",
-        "change_percentage": "-1.07%",
-        "volume": "47.106M",
-        "avg_volume": "36.805M",
-        "market_cap": "168.354B",
-        "pe_ratio": "N/A",
-        "address": "66 Hudson Boulevard East New York, NY 10001-2192",
-        "country": "United States",
-        "employees": 88000,
-        "52_week_range": "-20.56%",
-        "total_cash": "11.93B",
-        "vanguard_value": 12801845493,
-        "ceo": [
-            {
-                "name": "Dr. Albert  Bourla D.V.M., Ph.D.",
-                "title": "Chairman of the Board & CEO",
-                "pay": "4.05M",
-                "exercised": "--",
-                "born": "1962"
-            }
-        ]
-    },
-    {
-        "symbol": "CLSK",
-        "name": "CleanSpark, Inc.",
-        "price": "17.07",
-        "change": "-2.00",
-        "change_percentage": "-10.49%",
-        "volume": "37.164M",
-        "avg_volume": "30.838M",
-        "market_cap": "3.89B",
-        "pe_ratio": "131.31",
-        "address": "10624 S. Eastern Ave. Suite A -638 Henderson, NV 89052",
-        "country": "United States",
-        "employees": 130,
-        "52_week_range": "165.89%",
-        "total_cash": "320.84M",
-        "vanguard_value": 266726290,
-        "ceo": [
-            {
-                "name": "Mr. Zachary K. Bradford",
-                "title": "CEO, President & Director",
-                "pay": "3.55M",
-                "exercised": "--",
-                "born": "1986"
-            }
-        ]
-    },
-    {
-        "symbol": "AVGO",
-        "name": "Broadcom Inc.",
-        "price": "160.52",
-        "change": "+4.54",
-        "change_percentage": "+2.91%",
-        "volume": "37.598M",
-        "avg_volume": "35.778M",
-        "market_cap": "747.201B",
-        "pe_ratio": "68.89",
-        "address": "3421 Hillview Ave Palo Alto, CA 94304",
-        "country": "United States",
-        "employees": 20000,
-        "52_week_range": "79.00%",
-        "total_cash": "11.11B",
-        "vanguard_value": 57011348022,
-        "ceo": [
-            {
-                "name": "Mr. Hock E. Tan",
-                "title": "President, CEO & Executive Director",
-                "pay": "1.29M",
-                "exercised": "--",
-                "born": "1952"
-            }
-        ]
-    },
-    {
-        "symbol": "NOK",
-        "name": "Nokia Oyj",
-        "price": "3.6200",
-        "change": "-0.2800",
-        "change_percentage": "-7.18%",
-        "volume": "36.579M",
-        "avg_volume": "13.276M",
-        "market_cap": "20.472B",
-        "pe_ratio": "19.05",
-        "address": "Karakaari 7 Espoo, 02610",
-        "country": "Finland",
-        "employees": 86689,
-        "52_week_range": "-8.12%",
-        "total_cash": "8.4B",
-        "vanguard_value": 18471615,
-        "ceo": [
-            {
-                "name": "Mr. Pekka Ilmari Lundmark M.Sc.(Eng.)",
-                "title": "President & CEO",
-                "pay": "2.73M",
-                "exercised": "--",
-                "born": "1963"
-            }
-        ]
-    },
-    {
-        "symbol": "RIVN",
-        "name": "Rivian Automotive, Inc.",
-        "price": "16.90",
-        "change": "-0.29",
-        "change_percentage": "-1.69%",
-        "volume": "36.569M",
-        "avg_volume": "46.364M",
-        "market_cap": "16.821B",
-        "pe_ratio": "N/A",
-        "address": "14600 Myford Road Irvine, CA 92606",
-        "country": "United States",
-        "employees": 16790,
-        "52_week_range": "-33.12%",
-        "total_cash": "7.86B",
-        "vanguard_value": 797009132,
-        "ceo": [
-            {
-                "name": "Mr. Robert Joseph Scaringe Ph.D.",
-                "title": "Founder, CEO & Chairman of the Board",
-                "pay": "1.12M",
-                "exercised": "--",
-                "born": "1984"
-            }
-        ]
-    },
-    {
-        "symbol": "NIO",
-        "name": "NIO Inc.",
-        "price": "4.5400",
-        "change": "-0.0500",
-        "change_percentage": "-1.09%",
-        "volume": "36.026M",
-        "avg_volume": "51.85M",
-        "market_cap": "9.758B",
-        "pe_ratio": "N/A",
-        "address": "Building 20 No. 56 AnTuo Road Anting Town Jiading District Shanghai, 201804",
-        "country": "China",
-        "employees": 32820,
-        "52_week_range": "-57.09%",
-        "total_cash": "38.43B",
-        "vanguard_value": 280618442,
-        "ceo": [
-            {
-                "name": "Mr. William  Li",
-                "title": "Co-Founder, Chairman & CEO",
-                "pay": "--",
-                "exercised": "--",
-                "born": "1974"
-            }
-        ]
-    },
-    {
-        "symbol": "RIOT",
-        "name": "Riot Platforms, Inc.",
-        "price": "10.95",
-        "change": "-1.47",
-        "change_percentage": "-11.84%",
-        "volume": "35.161M",
-        "avg_volume": "24.391M",
-        "market_cap": "3.162B",
-        "pe_ratio": "26.07",
-        "address": "3855 Ambrosia Street Suite 301 Castle Rock, CO 80109",
-        "country": "United States",
-        "employees": 534,
-        "52_week_range": "-40.42%",
-        "total_cash": "688.5M",
-        "vanguard_value": 175802330,
-        "ceo": [
-            {
-                "name": "Mr. Jason  Les",
-                "title": "CEO & Executive Director",
-                "pay": "2.5M",
-                "exercised": "--",
-                "born": "1986"
-            }
-        ]
-    },
-    {
-        "symbol": "SIRI",
-        "name": "Sirius XM Holdings Inc.",
-        "price": "3.4600",
-        "change": "-0.3400",
-        "change_percentage": "-8.95%",
-        "volume": "33.186M",
-        "avg_volume": "39.995M",
-        "market_cap": "13.309B",
-        "pe_ratio": "10.48",
-        "address": "1221 Avenue of the Americas 35th Floor New York, NY 10020",
-        "country": "United States",
-        "employees": 5680,
-        "52_week_range": "-51.13%",
-        "total_cash": "71M",
-        "vanguard_value": 148657661,
-        "ceo": [
-            {
-                "name": "Ms. Jennifer C. Witz",
-                "title": "CEO & Director",
-                "pay": "7.16M",
-                "exercised": "--",
-                "born": "1969"
-            }
-        ]
-    },
-    {
-        "symbol": "PLUG",
-        "name": "Plug Power Inc.",
-        "price": "2.9200",
-        "change": "-0.1350",
-        "change_percentage": "-4.42%",
-        "volume": "32.852M",
-        "avg_volume": "37.819M",
-        "market_cap": "2.168B",
-        "pe_ratio": "N/A",
-        "address": "968 Albany Shaker Road Latham, NY 12110",
-        "country": "United States",
-        "employees": 3868,
-        "52_week_range": "-76.43%",
-        "total_cash": "172.87M",
-        "vanguard_value": 122916108,
-        "ceo": [
-            {
-                "name": "Mr. Andrew J. Marsh",
-                "title": "President, CEO & Director",
-                "pay": "767.8k",
-                "exercised": "--",
-                "born": "1956"
-            }
-        ]
-    },
-    {
-        "symbol": "GRAB",
-        "name": "Grab Holdings Limited",
-        "price": "3.4100",
-        "change": "-0.0800",
-        "change_percentage": "-2.29%",
-        "volume": "34.591M",
-        "avg_volume": "20.862M",
-        "market_cap": "13.48B",
-        "pe_ratio": "N/A",
-        "address": "3 Media Close No. 01-03/06 Singapore, 138498",
-        "country": "Singapore",
-        "employees": 10604,
-        "52_week_range": "-5.28%",
-        "total_cash": "4.29B",
-        "vanguard_value": 329455828,
-        "ceo": [
-            {
-                "name": "Mr. Ping Yeow  Tan",
-                "title": "Co-Founder, Chairman & CEO",
-                "pay": "--",
-                "exercised": "--",
-                "born": "1983"
-            }
-        ]
-    },
-    {
-        "symbol": "KEY",
-        "name": "KeyCorp",
-        "price": "15.56",
-        "change": "-0.65",
-        "change_percentage": "-4.01%",
-        "volume": "30.718M",
-        "avg_volume": "13.051M",
-        "market_cap": "14.676B",
-        "pe_ratio": "20.47",
-        "address": "127 Public Square Cleveland, OH 44114-1306",
-        "country": "United States",
-        "employees": 16752,
-        "52_week_range": "36.13%",
-        "total_cash": "2.61B",
-        "vanguard_value": 1508381226,
-        "ceo": [
-            {
-                "name": "Mr. Christopher Marrott Gorman",
-                "title": "Chairman, President & CEO",
-                "pay": "3.24M",
-                "exercised": "--",
-                "born": "1961"
-            }
-        ]
-    },
-    {
-        "symbol": "T",
-        "name": "AT&T Inc.",
-        "price": "19.15",
-        "change": "-0.01",
-        "change_percentage": "-0.05%",
-        "volume": "33.98M",
-        "avg_volume": "33.445M",
-        "market_cap": "137.309B",
-        "pe_ratio": "10.30",
-        "address": "208 South Akard Street Dallas, TX 75202",
-        "country": "United States",
-        "employees": 148290,
-        "52_week_range": "29.74%",
-        "total_cash": "3.59B",
-        "vanguard_value": 10165345542,
-        "ceo": [
-            {
-                "name": "Mr. John T. Stankey",
-                "title": "CEO, President & Director",
-                "pay": "9.2M",
-                "exercised": "--",
-                "born": "1963"
-            }
-        ]
-    },
-    {
-        "symbol": "MU",
-        "name": "Micron Technology, Inc.",
-        "price": "117.45",
-        "change": "-2.05",
-        "change_percentage": "-1.72%",
-        "volume": "30.322M",
-        "avg_volume": "21.441M",
-        "market_cap": "130.233B",
-        "pe_ratio": "N/A",
-        "address": "8000 South Federal Way Boise, ID 83716-9632",
-        "country": "United States",
-        "employees": 43000,
-        "52_week_range": "78.90%",
-        "total_cash": "8.38B",
-        "vanguard_value": 10533934325,
-        "ceo": [
-            {
-                "name": "Mr. Sanjay  Mehrotra",
-                "title": "CEO, President & Director",
-                "pay": "1.53M",
-                "exercised": "2.13M",
-                "born": "1959"
-            }
-        ]
-    },
-    {
-        "symbol": "NU",
-        "name": "Nu Holdings Ltd.",
-        "price": "13.11",
-        "change": "-0.11",
-        "change_percentage": "-0.83%",
-        "volume": "26.768M",
-        "avg_volume": "26.235M",
-        "market_cap": "62.788B",
-        "pe_ratio": "50.42",
-        "address": "Rua Capote Valente, 39 S\u00e3o Paulo, SP 05409-000",
-        "country": "Brazil",
-        "employees": "--",
-        "52_week_range": "65.53%",
-        "total_cash": "6.35B",
-        "vanguard_value": 931302639,
-        "ceo": [
-            {
-                "name": "Mr. David  Velez-Osomo",
-                "title": "Founder, Chairman & CEO",
-                "pay": "--",
-                "exercised": "--",
-                "born": "--"
-            }
-        ]
-    },
-    {
-        "symbol": "CMG",
-        "name": "Chipotle Mexican Grill, Inc.",
-        "price": "53.38",
-        "change": "-1.91",
-        "change_percentage": "-3.45%",
-        "volume": "29.093M",
-        "avg_volume": "16.487M",
-        "market_cap": "73.309B",
-        "pe_ratio": "56.79",
-        "address": "610 Newport Center Drive Suite 1100 Newport Beach, CA 92660",
-        "country": "United States",
-        "employees": 120000,
-        "52_week_range": "27.16%",
-        "total_cash": "1.42B",
-        "vanguard_value": 5706760513,
-        "ceo": [
-            {
-                "name": "Mr. Brian R. Niccol",
-                "title": "Chairman & CEO",
-                "pay": "6.97M",
-                "exercised": "37.04M",
-                "born": "1974"
-            }
-        ]
-    },
-    {
-        "symbol": "VALE",
-        "name": "Vale S.A.",
-        "price": "10.94",
-        "change": "-0.27",
-        "change_percentage": "-2.41%",
-        "volume": "27.059M",
-        "avg_volume": "25.078M",
-        "market_cap": "48.591B",
-        "pe_ratio": "6.04",
-        "address": "Praia de Botafogo 186 offices 1101, 1701 and 1801 Botafogo Rio De Janeiro, RJ 22250-145",
-        "country": "Brazil",
-        "employees": "--",
-        "52_week_range": "-22.90%",
-        "total_cash": "19.16B",
-        "vanguard_value": 494638935,
-        "ceo": [
-            {
-                "name": "Mr. Eduardo  de Salles Bartolomeo",
-                "title": "President & CEO",
-                "pay": "--",
-                "exercised": "--",
-                "born": "1964"
-            }
-        ]
-    },
-    {
-        "symbol": "ABEV",
-        "name": "Ambev S.A.",
-        "price": "2.1000",
-        "change": "-0.0800",
-        "change_percentage": "-3.67%",
-        "volume": "23.439M",
-        "avg_volume": "17.764M",
-        "market_cap": "34.25B",
-        "pe_ratio": "12.35",
-        "address": "Rua Dr. Renato Paes de Barros, 1017 3rd Floor S\u00e3o Paulo, SP 04530-001",
-        "country": "Brazil",
-        "employees": 43000,
-        "52_week_range": "-33.54%",
-        "total_cash": "13.92B",
-        "vanguard_value": 120181224,
-        "ceo": [
-            {
-                "name": "Mr. Jean Jereissati Neto",
-                "title": "CEO & Member of Executive Board",
-                "pay": "--",
-                "exercised": "--",
-                "born": "1974"
-            }
-        ]
-    },
-    {
-        "symbol": "ET",
-        "name": "Energy Transfer LP",
-        "price": "16.35",
-        "change": "+0.24",
-        "change_percentage": "+1.49%",
-        "volume": "21.929M",
-        "avg_volume": "11.523M",
-        "market_cap": "55.123B",
-        "pe_ratio": "15.00",
-        "address": "8111 Westchester Drive Suite 600 Dallas, TX 75225",
-        "country": "United States",
-        "employees": 13786,
-        "52_week_range": "24.33%",
-        "total_cash": "1.95B",
-        "vanguard_value": 0,
-        "ceo": [
-            {
-                "name": "Mr. Marshall S. McCrea III",
-                "title": "Co-CEO & Director of LE GP, LLC",
-                "pay": "3.76M",
-                "exercised": "--",
-                "born": "1959"
-            },
-            {
-                "name": "Mr. Thomas E. Long",
-                "title": "Co-CEO & Director of LE GP, LLC",
-                "pay": "3.76M",
-                "exercised": "--",
-                "born": "1957"
-            }
-        ]
-    },
-    {
-        "symbol": "QS",
-        "name": "QuantumScape Corporation",
-        "price": "8.37",
-        "change": "-0.55",
-        "change_percentage": "-6.17%",
-        "volume": "22.989M",
-        "avg_volume": "9.152M",
-        "market_cap": "4.181B",
-        "pe_ratio": "N/A",
-        "address": "1730 Technology Drive San Jose, CA 95110",
-        "country": "United States",
-        "employees": 850,
-        "52_week_range": "-11.15%",
-        "total_cash": "1.01B",
-        "vanguard_value": 123038872,
-        "ceo": [
-            {
-                "name": "Dr. Siva  Sivaram",
-                "title": "President, CEO & Director",
-                "pay": "143.71k",
-                "exercised": "--",
-                "born": "--"
-            }
-        ]
-    },
-    {
-        "symbol": "RUN",
-        "name": "Sunrun Inc.",
-        "price": "17.05",
-        "change": "-0.11",
-        "change_percentage": "-0.64%",
-        "volume": "21.184M",
-        "avg_volume": "12.509M",
-        "market_cap": "3.779B",
-        "pe_ratio": "N/A",
-        "address": "225 Bush Street Suite 1400 San Francisco, CA 94104",
-        "country": "United States",
-        "employees": 10833,
-        "52_week_range": "-20.10%",
-        "total_cash": "487.28M",
-        "vanguard_value": 672983372,
-        "ceo": [
-            {
-                "name": "Ms. Mary Grace Powell",
-                "title": "CEO & Director",
-                "pay": "2M",
-                "exercised": "--",
-                "born": "1960"
-            }
-        ]
-    },
-    {
-        "symbol": "SWN",
-        "name": "Southwestern Energy Company",
-        "price": "6.69",
-        "change": "-0.07",
-        "change_percentage": "-1.04%",
-        "volume": "20.914M",
-        "avg_volume": "14.509M",
-        "market_cap": "7.378B",
-        "pe_ratio": "N/A",
-        "address": "10000 Energy Drive Spring, TX 77389",
-        "country": "United States",
-        "employees": 1165,
-        "52_week_range": "7.90%",
-        "total_cash": "29M",
-        "vanguard_value": 636707362,
-        "ceo": [
-            {
-                "name": "Mr. William J. Way",
-                "title": "President, CEO & Director",
-                "pay": "5.35M",
-                "exercised": "--",
-                "born": "1959"
-            }
-        ]
-    },
-    {
-        "symbol": "GOOGL",
-        "name": "Alphabet Inc.",
-        "price": "177.69",
-        "change": "-3.33",
-        "change_percentage": "-1.84%",
-        "volume": "25.214M",
-        "avg_volume": "24.931M",
-        "market_cap": "2.204T",
-        "pe_ratio": "27.25",
-        "address": "1600 Amphitheatre Parkway Mountain View, CA 94043",
-        "country": "United States",
-        "employees": 180895,
-        "52_week_range": "48.05%",
-        "total_cash": "108.09B",
-        "vanguard_value": 74357895367,
-        "ceo": [
-            {
-                "name": "Mr. Sundar  Pichai",
-                "title": "CEO & Director",
-                "pay": "8.8M",
-                "exercised": "--",
-                "born": "1973"
-            }
-        ]
-    },
-    {
-        "symbol": "UMC",
-        "name": "United Microelectronics Corporation",
-        "price": "7.98",
-        "change": "+0.05",
-        "change_percentage": "+0.63%",
-        "volume": "20.002M",
-        "avg_volume": "8.838M",
-        "market_cap": "20.303B",
-        "pe_ratio": "11.91",
-        "address": "Hsinchu Science Park No. 3 Li-Hsin 2nd Road Hsinchu City, 300094",
-        "country": "Taiwan",
-        "employees": 20000,
-        "52_week_range": "11.14%",
-        "total_cash": "132.2B",
-        "vanguard_value": 174090774,
-        "ceo": []
-    },
-    {
-        "symbol": "UBER",
-        "name": "Uber Technologies, Inc.",
-        "price": "66.26",
-        "change": "-2.36",
-        "change_percentage": "-3.44%",
-        "volume": "21.963M",
-        "avg_volume": "18.344M",
-        "market_cap": "138.452B",
-        "pe_ratio": "105.17",
-        "address": "1725 3rd Street San Francisco, CA 94158",
-        "country": "United States",
-        "employees": 30700,
-        "52_week_range": "40.29%",
-        "total_cash": "5.76B",
-        "vanguard_value": 9338571286,
-        "ceo": [
-            {
-                "name": "Mr. Dara  Khosrowshahi",
-                "title": "CEO & Director",
-                "pay": "4.44M",
-                "exercised": "--",
-                "born": "1970"
-            }
-        ]
-    },
-    {
-        "symbol": "UAL",
-        "name": "United Airlines Holdings, Inc.",
-        "price": "46.39",
-        "change": "-0.55",
-        "change_percentage": "-1.17%",
-        "volume": "20.924M",
-        "avg_volume": "7.344M",
-        "market_cap": "15.253B",
-        "pe_ratio": "5.20",
-        "address": "233 South Wacker Drive Chicago, IL 60606",
-        "country": "United States",
-        "employees": 103300,
-        "52_week_range": "-19.48%",
-        "total_cash": "15.25B",
-        "vanguard_value": 821167163,
-        "ceo": [
-            {
-                "name": "Mr. J. Scott Kirby",
-                "title": "CEO & Director",
-                "pay": "7.87M",
-                "exercised": "--",
-                "born": "1967"
-            }
-        ]
-    },
-    {
-        "symbol": "WBA",
-        "name": "Walgreens Boots Alliance, Inc.",
-        "price": "11.36",
-        "change": "-0.49",
-        "change_percentage": "-4.14%",
-        "volume": "19.766M",
-        "avg_volume": "16.568M",
-        "market_cap": "9.807B",
-        "pe_ratio": "N/A",
-        "address": "108 Wilmot Road Deerfield, IL 60015",
-        "country": "United States",
-        "employees": 206000,
-        "52_week_range": "-62.71%",
-        "total_cash": "711M",
-        "vanguard_value": 756285439,
-        "ceo": [
-            {
-                "name": "Mr. Timothy C. Wentworth",
-                "title": "CEO & Director",
-                "pay": "--",
-                "exercised": "--",
-                "born": "1960"
-            }
-        ]
-    },
-    {
-        "symbol": "SCHW",
-        "name": "The Charles Schwab Corporation",
-        "price": "62.27",
-        "change": "-1.53",
-        "change_percentage": "-2.40%",
-        "volume": "21.475M",
-        "avg_volume": "7.754M",
-        "market_cap": "113.84B",
-        "pe_ratio": "25.95",
-        "address": "3000 Schwab Way Westlake, TX 76262",
-        "country": "United States",
-        "employees": 32300,
-        "52_week_range": "-6.33%",
-        "total_cash": "61.65B",
-        "vanguard_value": 6181224384,
-        "ceo": [
-            {
-                "name": "Mr. Walter William Bettinger II",
-                "title": "CEO & Co-Chairman",
-                "pay": "5.62M",
-                "exercised": "--",
-                "born": "1961"
-            }
-        ]
-    },
-    {
-        "symbol": "KGC",
-        "name": "Kinross Gold Corporation",
-        "price": "8.91",
-        "change": "-0.14",
-        "change_percentage": "-1.55%",
-        "volume": "18.902M",
-        "avg_volume": "16.344M",
-        "market_cap": "10.978B",
-        "pe_ratio": "24.75",
-        "address": "25 York Street 17th Floor Toronto, ON M5J 2V5",
-        "country": "Canada",
-        "employees": "--",
-        "52_week_range": "77.14%",
-        "total_cash": "423.3M",
-        "vanguard_value": 0,
-        "ceo": [
-            {
-                "name": "Mr. J. Paul Rollinson",
-                "title": "CEO & Director",
-                "pay": "3.57M",
-                "exercised": "--",
-                "born": "1962"
-            }
-        ]
-    },
-    {
-        "symbol": "ERIC",
-        "name": "Telefonaktiebolaget LM Ericsson (publ)",
-        "price": "6.64",
-        "change": "-0.09",
-        "change_percentage": "-1.34%",
-        "volume": "18.145M",
-        "avg_volume": "15.16M",
-        "market_cap": "22.534B",
-        "pe_ratio": "N/A",
-        "address": "Torshamnsgatan 21 Kista Stockholm, 164 83",
-        "country": "Sweden",
-        "employees": 97985,
-        "52_week_range": "31.75%",
-        "total_cash": "42.57B",
-        "vanguard_value": 0,
-        "ceo": [
-            {
-                "name": "Mr. E. Borje Ekholm MBA, MSc",
-                "title": "President, CEO, Head of Segment Enterprise & Director",
-                "pay": "30.5M",
-                "exercised": "--",
-                "born": "1963"
-            }
-        ]
-    },
-    {
-        "symbol": "CCL",
-        "name": "Carnival Corporation & plc",
-        "price": "18.25",
-        "change": "-0.15",
-        "change_percentage": "-0.82%",
-        "volume": "19.971M",
-        "avg_volume": "29.531M",
-        "market_cap": "23.91B",
-        "pe_ratio": "25.70",
-        "address": "3655 N.W. 87th Avenue Miami, FL 33178-2428",
-        "country": "United States",
-        "employees": 106000,
-        "52_week_range": "2.07%",
-        "total_cash": "1.66B",
-        "vanguard_value": 1212023197,
-        "ceo": [
-            {
-                "name": "Mr. Joshua Ian Weinstein",
-                "title": "President, CEO, Chief Climate Officer & Director",
-                "pay": "6.35M",
-                "exercised": "--",
-                "born": "1974"
-            }
-        ]
-    },
-    {
-        "symbol": "HBAN",
-        "name": "Huntington Bancshares Incorporated",
-        "price": "14.30",
-        "change": "-0.14",
-        "change_percentage": "-0.97%",
-        "volume": "20.511M",
-        "avg_volume": "16.835M",
-        "market_cap": "20.724B",
-        "pe_ratio": "12.88",
-        "address": "Huntington Center 41 South High Street Columbus, OH 43287",
-        "country": "United States",
-        "employees": 19719,
-        "52_week_range": "21.39%",
-        "total_cash": "12.91B",
-        "vanguard_value": 1976301426,
-        "ceo": [
-            {
-                "name": "Mr. Stephen D. Steinour",
-                "title": "Chairman, President & CEO",
-                "pay": "4.1M",
-                "exercised": "--",
-                "born": "1959"
-            }
-        ]
-    },
-    {
-        "symbol": "CSCO",
-        "name": "Cisco Systems, Inc.",
-        "price": "48.04",
-        "change": "-0.48",
-        "change_percentage": "-0.99%",
-        "volume": "17.759M",
-        "avg_volume": "19.611M",
-        "market_cap": "193.544B",
-        "pe_ratio": "16.23",
-        "address": "170 West Tasman Drive San Jose, CA 95134-1706",
-        "country": "United States",
-        "employees": 84900,
-        "52_week_range": "-8.72%",
-        "total_cash": "19.52B",
-        "vanguard_value": 16659644303,
-        "ceo": [
-            {
-                "name": "Mr. Charles H. Robbins",
-                "title": "Chairman & CEO",
-                "pay": "7.73M",
-                "exercised": "--",
-                "born": "1966"
-            }
-        ]
-    },
-    {
-        "symbol": "CMCSA",
-        "name": "Comcast Corporation",
-        "price": "40.14",
-        "change": "-0.45",
-        "change_percentage": "-1.11%",
-        "volume": "17.746M",
-        "avg_volume": "20.095M",
-        "market_cap": "157.495B",
-        "pe_ratio": "10.65",
-        "address": "One Comcast Center 1701 JFK Boulevard Philadelphia, PA 19103-2838",
-        "country": "United States",
-        "employees": 186000,
-        "52_week_range": "-6.41%",
-        "total_cash": "6.51B",
-        "vanguard_value": 12110909854,
-        "ceo": [
-            {
-                "name": "Mr. Brian L. Roberts",
-                "title": "Chairman & CEO",
-                "pay": "11.25M",
-                "exercised": "23.33M",
-                "born": "1960"
-            }
-        ]
-    },
-    {
-        "symbol": "GOOG",
-        "name": "Alphabet Inc.",
-        "price": "179.22",
-        "change": "-3.40",
-        "change_percentage": "-1.86%",
-        "volume": "17.735M",
-        "avg_volume": "18.454M",
-        "market_cap": "2.204T",
-        "pe_ratio": "27.49",
-        "address": "1600 Amphitheatre Parkway Mountain View, CA 94043",
-        "country": "United States",
-        "employees": 180895,
-        "52_week_range": "48.97%",
-        "total_cash": "108.09B",
-        "vanguard_value": 64393475621,
-        "ceo": [
-            {
-                "name": "Mr. Sundar  Pichai",
-                "title": "CEO & Director",
-                "pay": "8.8M",
-                "exercised": "--",
-                "born": "1973"
-            }
-        ]
-    },
-    {
-        "symbol": "GOLD",
-        "name": "Barrick Gold Corporation",
-        "price": "18.54",
-        "change": "-0.34",
-        "change_percentage": "-1.80%",
-        "volume": "17.304M",
-        "avg_volume": "20.877M",
-        "market_cap": "32.621B",
-        "pe_ratio": "22.61",
-        "address": "Brookfield Place, TD Canada Trust Tower Suite 3700 161 Bay Street Toronto, ON M5J 2S1",
-        "country": "Canada",
-        "employees": "--",
-        "52_week_range": "6.55%",
-        "total_cash": "3.94B",
-        "vanguard_value": 815965570,
-        "ceo": [
-            {
-                "name": "Dr. Dennis Mark Bristow",
-                "title": "President, CEO, Member of International Advisory Board & Director",
-                "pay": "6.07M",
-                "exercised": "--",
-                "born": "1959"
-            }
-        ]
-    },
-    {
-        "symbol": "META",
-        "name": "Meta Platforms, Inc.",
-        "price": "475.85",
-        "change": "+13.86",
-        "change_percentage": "+3.00%",
-        "volume": "18.799M",
-        "avg_volume": "15.162M",
-        "market_cap": "1.207T",
-        "pe_ratio": "27.39",
-        "address": "1 Meta Way Menlo Park, CA 94025",
-        "country": "United States",
-        "employees": 69329,
-        "52_week_range": "61.71%",
-        "total_cash": "58.12B",
-        "vanguard_value": 76879038966,
-        "ceo": [
-            {
-                "name": "Mr. Mark Elliot Zuckerberg",
-                "title": "Founder, Chairman & CEO",
-                "pay": "24.4M",
-                "exercised": "--",
-                "born": "1984"
-            }
-        ]
-    },
-    {
-        "symbol": "MSFT",
-        "name": "Microsoft Corporation",
-        "price": "440.37",
-        "change": "-3.15",
-        "change_percentage": "-0.71%",
-        "volume": "20.724M",
-        "avg_volume": "18.776M",
-        "market_cap": "3.273T",
-        "pe_ratio": "38.16",
-        "address": "One Microsoft Way Redmond, WA 98052-6399",
-        "country": "United States",
-        "employees": 221000,
-        "52_week_range": "28.10%",
-        "total_cash": "80.01B",
-        "vanguard_value": 239435173702,
-        "ceo": [
-            {
-                "name": "Mr. Satya  Nadella",
-                "title": "Chairman & CEO",
-                "pay": "9.28M",
-                "exercised": "--",
-                "born": "1967"
-            }
-        ]
-    },
-    {
-        "symbol": "U",
-        "name": "Unity Software Inc.",
-        "price": "16.37",
-        "change": "-1.72",
-        "change_percentage": "-9.51%",
-        "volume": "16.615M",
-        "avg_volume": "9.117M",
-        "market_cap": "6.398B",
-        "pe_ratio": "N/A",
-        "address": "30 3rd Street San Francisco, CA 94103-3104",
-        "country": "United States",
-        "employees": 6748,
-        "52_week_range": "-63.21%",
-        "total_cash": "1.18B",
-        "vanguard_value": 240051207,
-        "ceo": [
-            {
-                "name": "Mr. Matthew Samuel Bromberg",
-                "title": "CEO, President & Director",
-                "pay": "--",
-                "exercised": "--",
-                "born": "1966"
-            }
-        ]
-    },
-    {
-        "symbol": "GME",
-        "name": "GameStop Corp.",
-        "price": "25.88",
-        "change": "-2.10",
-        "change_percentage": "-7.51%",
-        "volume": "16.73M",
-        "avg_volume": "53.559M",
-        "market_cap": "11.031B",
-        "pe_ratio": "323.50",
-        "address": "625 Westport Parkway Grapevine, TX 76051",
-        "country": "United States",
-        "employees": 8000,
-        "52_week_range": "16.68%",
-        "total_cash": "1.08B",
-        "vanguard_value": 580277995,
-        "ceo": [
-            {
-                "name": "Mr. Ryan  Cohen",
-                "title": "President, CEO & Executive Chairman",
-                "pay": "--",
-                "exercised": "--",
-                "born": "1986"
-            }
-        ]
-    },
-    {
-        "symbol": "NYCB",
-        "name": "New York Community Bancorp, Inc.",
-        "price": "11.09",
-        "change": "-0.35",
-        "change_percentage": "-3.06%",
-        "volume": "15.749M",
-        "avg_volume": "6.159M",
-        "market_cap": "3.897B",
-        "pe_ratio": "N/A",
-        "address": "102 Duffy Avenue Hicksville, NY 11801",
-        "country": "United States",
-        "employees": 8766,
-        "52_week_range": "-69.37%",
-        "total_cash": "13.04B",
-        "vanguard_value": 237358665,
-        "ceo": [
-            {
-                "name": "Mr. Joseph M. Otting",
-                "title": "President, CEO & Executive Chairman",
-                "pay": "--",
-                "exercised": "--",
-                "born": "1958"
-            },
-            {
-                "name": "Mr. Salvatore J. DiMartino",
-                "title": "Executive VP, Chief of Staff to the CEO & Director of Investor Relations",
-                "pay": "--",
-                "exercised": "--",
-                "born": "--"
-            }
-        ]
-    },
-    {
-        "symbol": "BMY",
-        "name": "Bristol-Myers Squibb Company",
-        "price": "42.39",
-        "change": "-0.76",
-        "change_percentage": "-1.76%",
-        "volume": "19.419M",
-        "avg_volume": "15.773M",
-        "market_cap": "85.929B",
-        "pe_ratio": "N/A",
-        "address": "Route 206 & Province Line Road Princeton, NJ 08543",
-        "country": "United States",
-        "employees": 34100,
-        "52_week_range": "-34.46%",
-        "total_cash": "9.67B",
-        "vanguard_value": 6847072558,
-        "ceo": [
-            {
-                "name": "Dr. Christopher S. Boerner Ph.D.",
-                "title": "CEO & Chairman",
-                "pay": "3.14M",
-                "exercised": "--",
-                "born": "1971"
-            }
-        ]
-    },
-    {
-        "symbol": "BBD",
-        "name": "Banco Bradesco S.A.",
-        "price": "2.2500",
-        "change": "-0.0900",
-        "change_percentage": "-3.85%",
-        "volume": "15.948M",
-        "avg_volume": "18.452M",
-        "market_cap": "23.962B",
-        "pe_ratio": "10.71",
-        "address": "Cidade De Deus, S/N Vila Yara Osasco, SP 06029-900",
-        "country": "Brazil",
-        "employees": 74208,
-        "52_week_range": "-37.15%",
-        "total_cash": "270.92B",
-        "vanguard_value": 191155658,
-        "ceo": [
-            {
-                "name": "Mr. Marcelo  de Araujo Noronha",
-                "title": "CEO & Member of Executive Board",
-                "pay": "--",
-                "exercised": "--",
-                "born": "1965"
-            }
-        ]
-    },
-    {
-        "symbol": "AGNC",
-        "name": "AGNC Investment Corp.",
-        "price": "10.29",
-        "change": "-0.09",
-        "change_percentage": "-0.87%",
-        "volume": "14.753M",
-        "avg_volume": "12.072M",
-        "market_cap": "7.48B",
-        "pe_ratio": "10.83",
-        "address": "7373 Wisconsin Avenue 22nd Floor Bethesda, MD 20814",
-        "country": "United States",
-        "employees": 53,
-        "52_week_range": "1.88%",
-        "total_cash": "13.01B",
-        "vanguard_value": 382360716,
-        "ceo": [
-            {
-                "name": "Mr. Peter J. Federico",
-                "title": "President, CEO & Director",
-                "pay": "7.32M",
-                "exercised": "--",
-                "born": "1966"
-            }
-        ]
-    },
-    {
-        "symbol": "KVUE",
-        "name": "Kenvue Inc.",
-        "price": "18.32",
-        "change": "-0.12",
-        "change_percentage": "-0.65%",
-        "volume": "14.13M",
-        "avg_volume": "22.707M",
-        "market_cap": "35.079B",
-        "pe_ratio": "23.49",
-        "address": "199 Grandview Road Skillman, NJ 08558",
-        "country": "United States",
-        "employees": 22000,
-        "52_week_range": "-23.70%",
-        "total_cash": "1.16B",
-        "vanguard_value": 1905037363,
-        "ceo": [
-            {
-                "name": "Mr. Thibaut  Mongon",
-                "title": "CEO & Director",
-                "pay": "4.79M",
-                "exercised": "--",
-                "born": "1971"
-            }
-        ]
-    },
-    {
-        "symbol": "BCS",
-        "name": "Barclays PLC",
-        "price": "11.74",
-        "change": "-0.28",
-        "change_percentage": "-2.33%",
-        "volume": "13.829M",
-        "avg_volume": "12.22M",
-        "market_cap": "44.193B",
-        "pe_ratio": "8.76",
-        "address": "1 Churchill Place London, E14 5HP",
-        "country": "United Kingdom",
-        "employees": 92400,
-        "52_week_range": "39.10%",
-        "total_cash": "700.54B",
-        "vanguard_value": 0,
-        "ceo": [
-            {
-                "name": "Mr. Coimbatore Sundararajan Venkatakrishnan",
-                "title": "Group CEO & Executive Director",
-                "pay": "6.04M",
-                "exercised": "--",
-                "born": "1966"
-            }
-        ]
-    },
-    {
-        "symbol": "SNAP",
-        "name": "Snap Inc.",
-        "price": "14.57",
-        "change": "0.00",
-        "change_percentage": "0.00%",
-        "volume": "14.352M",
-        "avg_volume": "24.917M",
-        "market_cap": "23.91B",
-        "pe_ratio": "N/A",
-        "address": "3000 31st Street Santa Monica, CA 90405",
-        "country": "United States",
-        "employees": 4835,
-        "52_week_range": "14.36%",
-        "total_cash": "2.91B",
-        "vanguard_value": 586481146,
-        "ceo": [
-            {
-                "name": "Mr. Evan T. Spiegel",
-                "title": "Co-Founder, CEO & Director",
-                "pay": "3.34M",
-                "exercised": "--",
-                "born": "1991"
-            }
-        ]
-    },
-    {
-        "symbol": "ETRN",
-        "name": "Equitrans Midstream Corporation",
-        "price": "12.35",
-        "change": "-0.09",
-        "change_percentage": "-0.72%",
-        "volume": "13.254M",
-        "avg_volume": "5.785M",
-        "market_cap": "5.396B",
-        "pe_ratio": "13.72",
-        "address": "2200 Energy Drive Canonsburg, PA 15317",
-        "country": "United States",
-        "employees": 773,
-        "52_week_range": "31.38%",
-        "total_cash": "51.29M",
-        "vanguard_value": 677146396,
-        "ceo": [
-            {
-                "name": "Ms. Diana M. Charletta",
-                "title": "CEO, President & Director",
-                "pay": "1.51M",
-                "exercised": "--",
-                "born": "1973"
-            }
-        ]
-    },
-    {
-        "symbol": "TFC",
-        "name": "Truist Financial Corporation",
-        "price": "42.44",
-        "change": "-0.66",
-        "change_percentage": "-1.53%",
-        "volume": "13.299M",
-        "avg_volume": "7.047M",
-        "market_cap": "56.789B",
-        "pe_ratio": "N/A",
-        "address": "214 North Tryon Street Charlotte, NC 28202",
-        "country": "United States",
-        "employees": 49218,
-        "52_week_range": "28.41%",
-        "total_cash": "43B",
-        "vanguard_value": 4290206125,
-        "ceo": [
-            {
-                "name": "Mr. William Henry Rogers Jr.",
-                "title": "Executive Chairman & CEO",
-                "pay": "4.09M",
-                "exercised": "--",
-                "born": "1958"
-            }
-        ]
-    },
-    {
-        "symbol": "LYFT",
-        "name": "Lyft, Inc.",
-        "price": "12.43",
-        "change": "-0.30",
-        "change_percentage": "-2.36%",
-        "volume": "13.279M",
-        "avg_volume": "13.806M",
-        "market_cap": "5.015B",
-        "pe_ratio": "N/A",
-        "address": "185 Berry Street Suite 400 San Francisco, CA 94107",
-        "country": "United States",
-        "employees": 2945,
-        "52_week_range": "8.84%",
-        "total_cash": "1.67B",
-        "vanguard_value": 211862706,
-        "ceo": [
-            {
-                "name": "Mr. John David Risher",
-                "title": "CEO & Director",
-                "pay": "4.93M",
-                "exercised": "--",
-                "born": "1965"
-            }
-        ]
-    },
-    {
-        "symbol": "VRT",
-        "name": "Vertiv Holdings Co",
-        "price": "82.56",
-        "change": "+0.78",
-        "change_percentage": "+0.95%",
-        "volume": "13.772M",
-        "avg_volume": "9.566M",
-        "market_cap": "30.906B",
-        "pe_ratio": "78.63",
-        "address": "505 North Cleveland Ave Westerville, OH 43082",
-        "country": "United States",
-        "employees": 27000,
-        "52_week_range": "221.50%",
-        "total_cash": "314.3M",
-        "vanguard_value": 2325143634,
-        "ceo": [
-            {
-                "name": "Mr. Giordano  Albertazzi",
-                "title": "CEO & Director",
-                "pay": "2.88M",
-                "exercised": "--",
-                "born": "1967"
-            }
-        ]
-    },
-    {
-        "symbol": "HOOD",
-        "name": "Robinhood Markets, Inc.",
-        "price": "22.83",
-        "change": "-1.35",
-        "change_percentage": "-5.58%",
-        "volume": "14.163M",
-        "avg_volume": "17.674M",
-        "market_cap": "20.064B",
-        "pe_ratio": "163.07",
-        "address": "85 Willow Road Menlo Park, CA 94025",
-        "country": "United States",
-        "employees": 2200,
-        "52_week_range": "78.92%",
-        "total_cash": "11.36B",
-        "vanguard_value": 685785758,
-        "ceo": [
-            {
-                "name": "Mr. Vladimir  Tenev",
-                "title": "Co-Founder, President, CEO & Chairman of the Board",
-                "pay": "2.44M",
-                "exercised": "--",
-                "born": "1987"
-            }
-        ]
-    },
-    {
-        "symbol": "RF",
-        "name": "Regions Financial Corporation",
-        "price": "22.09",
-        "change": "-0.02",
-        "change_percentage": "-0.09%",
-        "volume": "13.159M",
-        "avg_volume": "7.365M",
-        "market_cap": "20.231B",
-        "pe_ratio": "11.94",
-        "address": "1900 Fifth Avenue North Birmingham, AL 35203",
-        "country": "United States",
-        "employees": 20101,
-        "52_week_range": "12.02%",
-        "total_cash": "--",
-        "vanguard_value": 2013887111,
-        "ceo": [
-            {
-                "name": "Mr. John M. Turner Jr.",
-                "title": "President, CEO & Chairman",
-                "pay": "5.57M",
-                "exercised": "--",
-                "born": "1962"
-            }
-        ]
-    },
-    {
-        "symbol": "SQ",
-        "name": "Block, Inc.",
-        "price": "68.00",
-        "change": "-3.85",
-        "change_percentage": "-5.36%",
-        "volume": "12.981M",
-        "avg_volume": "7.662M",
-        "market_cap": "41.959B",
-        "pe_ratio": "113.33",
-        "address": "1955 Broadway Suite 600 Oakland, CA 94612",
-        "country": "United States",
-        "employees": 12985,
-        "52_week_range": "-10.67%",
-        "total_cash": "6.37B",
-        "vanguard_value": 2029319262,
-        "ceo": []
-    },
-    {
         "symbol": "VZ",
         "name": "Verizon Communications Inc.",
-        "price": "42.07",
-        "change": "+0.04",
-        "change_percentage": "+0.10%",
-        "volume": "15.373M",
-        "avg_volume": "17.16M",
-        "market_cap": "177.083B",
-        "pe_ratio": "15.76",
+        "price": "39.03",
+        "change": "-2.59",
+        "change_percentage": "-6.22%",
+        "volume": "27.278M",
+        "avg_volume": "16.607M",
+        "market_cap": "164.287B",
+        "pe_ratio": "14.62",
         "address": "1095 Avenue of the Americas New York, NY 10036",
         "country": "United States",
         "employees": 104400,
-        "52_week_range": "24.17%",
+        "52_week_range": "22.48%",
         "total_cash": "2.42B",
-        "vanguard_value": 14262857036,
+        "vanguard_value": 13325544924,
+        "shares": "341.46M",
+        "date_reported": "Mar 31, 2024",
+        "out": "8.11%",
         "ceo": [
             {
                 "name": "Mr. Hans E. Vestberg",
@@ -1879,306 +217,122 @@
         ]
     },
     {
-        "symbol": "USB",
-        "name": "U.S. Bancorp",
-        "price": "44.41",
-        "change": "-0.85",
-        "change_percentage": "-1.88%",
-        "volume": "17.219M",
-        "avg_volume": "8.171M",
-        "market_cap": "69.3B",
-        "pe_ratio": "14.10",
-        "address": "800 Nicollet Mall Minneapolis, MN 55402",
-        "country": "United States",
-        "employees": 70000,
-        "52_week_range": "15.59%",
-        "total_cash": "65.83B",
-        "vanguard_value": 4974165101,
-        "ceo": [
-            {
-                "name": "Mr. Andrew J. Cecere",
-                "title": "Chairman & CEO",
-                "pay": "5.21M",
-                "exercised": "--",
-                "born": "1961"
-            }
-        ]
-    },
-    {
-        "symbol": "MRVL",
-        "name": "Marvell Technology, Inc.",
-        "price": "68.21",
-        "change": "+0.28",
-        "change_percentage": "+0.40%",
-        "volume": "12.534M",
-        "avg_volume": "10.904M",
-        "market_cap": "59.038B",
-        "pe_ratio": "N/A",
-        "address": "1000 North West Street Suite 1200 Wilmington, DE 19801",
-        "country": "United States",
-        "employees": 6511,
-        "52_week_range": "7.56%",
-        "total_cash": "847.7M",
-        "vanguard_value": 4146541395,
-        "ceo": [
-            {
-                "name": "Mr. Matthew J. Murphy",
-                "title": "President, CEO & Chairman",
-                "pay": "3.37M",
-                "exercised": "--",
-                "born": "1973"
-            }
-        ]
-    },
-    {
-        "symbol": "C",
-        "name": "Citigroup Inc.",
-        "price": "64.89",
-        "change": "-2.72",
-        "change_percentage": "-4.02%",
-        "volume": "15.469M",
-        "avg_volume": "12.468M",
-        "market_cap": "123.797B",
-        "pe_ratio": "17.93",
-        "address": "388 Greenwich Street New York, NY 10013",
-        "country": "United States",
-        "employees": 229000,
-        "52_week_range": "37.92%",
-        "total_cash": "1.01T",
-        "vanguard_value": 10527424020,
-        "ceo": [
-            {
-                "name": "Ms. Jane Nind Fraser",
-                "title": "CEO & Director",
-                "pay": "6.76M",
-                "exercised": "--",
-                "born": "1968"
-            }
-        ]
-    },
-    {
-        "symbol": "JPM",
-        "name": "JPMorgan Chase & Co.",
-        "price": "209.98",
-        "change": "-6.89",
-        "change_percentage": "-3.18%",
-        "volume": "12.411M",
-        "avg_volume": "9.153M",
-        "market_cap": "597.414B",
-        "pe_ratio": "11.71",
-        "address": "383 Madison Avenue New York, NY 10179",
-        "country": "United States",
-        "employees": 313206,
-        "52_week_range": "35.51%",
-        "total_cash": "1.66T",
-        "vanguard_value": 41630970400,
-        "ceo": [
-            {
-                "name": "Mr. James  Dimon",
-                "title": "Chairman & CEO",
-                "pay": "7.05M",
-                "exercised": "--",
-                "born": "1956"
-            }
-        ]
-    },
-    {
-        "symbol": "IAG",
-        "name": "IAMGOLD Corporation",
-        "price": "4.0500",
-        "change": "-0.0800",
-        "change_percentage": "-1.94%",
-        "volume": "12.205M",
-        "avg_volume": "9.197M",
-        "market_cap": "2.318B",
-        "pe_ratio": "14.46",
-        "address": "150 King Street West Suite 2200 Toronto, ON M5H 1J9",
-        "country": "Canada",
-        "employees": 3600,
-        "52_week_range": "43.62%",
-        "total_cash": "291.5M",
+        "symbol": "BTGRF",
+        "name": "BTS Group Holdings Public Company Limited",
+        "price": "0.3200",
+        "change": "+0.0117",
+        "change_percentage": "+3.79%",
+        "volume": "26.646M",
+        "avg_volume": "0",
+        "market_cap": "4.023B",
+        "pe_ratio": "32.00",
+        "address": "TST Tower 21 Soi Choei Phuang Viphavadi-Rangsit Road Chomphon, Chatuchak Bangkok, 10900",
+        "country": "Thailand",
+        "employees": "--",
+        "52_week_range": "0.00%",
+        "total_cash": "12.01B",
         "vanguard_value": 0,
+        "shares": "",
+        "date_reported": "",
+        "out": "",
         "ceo": [
             {
-                "name": "Mr. Renaud  Adams P.Eng.",
-                "title": "CEO, President & Director",
-                "pay": "1.32M",
+                "name": "Mr. Kavin  Kanjanapas",
+                "title": "CEO, Chief Exec. of MATCH Bus. & Exec. Director",
+                "pay": "13.42k",
                 "exercised": "--",
-                "born": "1970"
-            }
-        ]
-    },
-    {
-        "symbol": "WFC",
-        "name": "Wells Fargo & Company",
-        "price": "59.24",
-        "change": "-1.67",
-        "change_percentage": "-2.74%",
-        "volume": "17.145M",
-        "avg_volume": "17.981M",
-        "market_cap": "201.577B",
-        "pe_ratio": "12.14",
-        "address": "420 Montgomery Street San Francisco, CA 94104",
-        "country": "United States",
-        "employees": 222544,
-        "52_week_range": "28.89%",
-        "total_cash": "453.77B",
-        "vanguard_value": 15489334200,
-        "ceo": [
-            {
-                "name": "Mr. Charles W. Scharf",
-                "title": "President, CEO & Director",
-                "pay": "9.33M",
-                "exercised": "--",
-                "born": "1965"
+                "born": "1975"
             },
             {
-                "name": "Mr. Jonathan Geoffrey Weiss",
-                "title": "Senior EVP and Co-CEO of Corporate & Investment Banking",
-                "pay": "5.68M",
-                "exercised": "--",
-                "born": "1958"
-            },
-            {
-                "name": "Mr. Barry  Sommers",
-                "title": "Senior EVP and CEO of Wealth & Investment Management",
-                "pay": "4.34M",
-                "exercised": "--",
-                "born": "1970"
-            }
-        ]
-    },
-    {
-        "symbol": "RIG",
-        "name": "Transocean Ltd.",
-        "price": "5.41",
-        "change": "-0.18",
-        "change_percentage": "-3.22%",
-        "volume": "13.128M",
-        "avg_volume": "17.986M",
-        "market_cap": "4.734B",
-        "pe_ratio": "N/A",
-        "address": "Turmstrasse 30 Steinhausen, 6312",
-        "country": "Switzerland",
-        "employees": 5430,
-        "52_week_range": "-33.21%",
-        "total_cash": "446M",
-        "vanguard_value": 133414317,
-        "ceo": [
-            {
-                "name": "Mr. Jeremy D. Thigpen",
-                "title": "CEO & Executive Director",
-                "pay": "3.05M",
+                "name": "Mr. Chi Keung  Kong",
+                "title": "Deputy CEO & Exec. Director",
+                "pay": "13.42k",
                 "exercised": "--",
                 "born": "1975"
             }
         ]
     },
     {
-        "symbol": "AVTR",
-        "name": "Avantor, Inc.",
-        "price": "20.74",
-        "change": "-0.68",
-        "change_percentage": "-3.17%",
-        "volume": "11.686M",
-        "avg_volume": "5.986M",
-        "market_cap": "14.088B",
-        "pe_ratio": "54.58",
-        "address": "Radnor Corporate Center Building One Suite 200 100 Matsonford Road Radnor, PA 19087",
+        "symbol": "PFE",
+        "name": "Pfizer Inc.",
+        "price": "29.54",
+        "change": "-0.43",
+        "change_percentage": "-1.43%",
+        "volume": "25.259M",
+        "avg_volume": "36.712M",
+        "market_cap": "167.391B",
+        "pe_ratio": "N/A",
+        "address": "66 Hudson Boulevard East New York, NY 10001-2192",
         "country": "United States",
-        "employees": 14500,
-        "52_week_range": "-9.83%",
-        "total_cash": "252.9M",
-        "vanguard_value": 879598076,
+        "employees": 88000,
+        "52_week_range": "-20.10%",
+        "total_cash": "11.93B",
+        "vanguard_value": 12739548568,
+        "shares": "431.12M",
+        "date_reported": "Mar 31, 2024",
+        "out": "7.61%",
         "ceo": [
             {
-                "name": "Mr. Michael  Stubblefield",
-                "title": "President, CEO & Director",
-                "pay": "1.36M",
+                "name": "Dr. Albert  Bourla D.V.M., Ph.D.",
+                "title": "Chairman of the Board & CEO",
+                "pay": "4.05M",
                 "exercised": "--",
-                "born": "1973"
+                "born": "1962"
             }
         ]
     },
     {
-        "symbol": "ITUB",
-        "name": "Ita\u00fa Unibanco Holding S.A.",
-        "price": "6.07",
-        "change": "-0.17",
-        "change_percentage": "-2.72%",
-        "volume": "10.753M",
-        "avg_volume": "17.675M",
-        "market_cap": "59.44B",
-        "pe_ratio": "9.06",
-        "address": "PraCa Alfredo Egydio de Souza Aranha n 100 S\u00e3o Paulo, SP 04344-902",
+        "symbol": "PLTR",
+        "name": "Palantir Technologies Inc.",
+        "price": "28.39",
+        "change": "-0.19",
+        "change_percentage": "-0.68%",
+        "volume": "25.198M",
+        "avg_volume": "45.094M",
+        "market_cap": "63.211B",
+        "pe_ratio": "236.54",
+        "address": "1200 17th Street Floor 15 Denver, CO 80202",
+        "country": "United States",
+        "employees": 3678,
+        "52_week_range": "75.12%",
+        "total_cash": "3.87B",
+        "vanguard_value": 3195677555,
+        "shares": "112.68M",
+        "date_reported": "Mar 31, 2024",
+        "out": "5.29%",
+        "ceo": [
+            {
+                "name": "Dr. Alexander C. Karp",
+                "title": "Co-Founder, CEO & Director",
+                "pay": "3.5M",
+                "exercised": "--",
+                "born": "1967"
+            }
+        ]
+    },
+    {
+        "symbol": "NU",
+        "name": "Nu Holdings Ltd.",
+        "price": "12.82",
+        "change": "-0.65",
+        "change_percentage": "-4.86%",
+        "volume": "24.151M",
+        "avg_volume": "26.355M",
+        "market_cap": "61.377B",
+        "pe_ratio": "49.29",
+        "address": "Rua Capote Valente, 39 S\u00e3o Paulo, SP 05409-000",
         "country": "Brazil",
         "employees": "--",
-        "52_week_range": "0.66%",
-        "total_cash": "445.12B",
-        "vanguard_value": 149271805,
+        "52_week_range": "71.37%",
+        "total_cash": "6.35B",
+        "vanguard_value": 892113482,
+        "shares": "69.4M",
+        "date_reported": "Mar 31, 2024",
+        "out": "1.87%",
         "ceo": [
             {
-                "name": "Mr. Milton  Maluhy Filho",
-                "title": "CEO & Member of Executive Board",
-                "pay": "--",
-                "exercised": "--",
-                "born": "1976"
-            }
-        ]
-    },
-    {
-        "symbol": "MPW",
-        "name": "Medical Properties Trust, Inc.",
-        "price": "4.7100",
-        "change": "-0.1200",
-        "change_percentage": "-2.48%",
-        "volume": "11.404M",
-        "avg_volume": "15.465M",
-        "market_cap": "2.826B",
-        "pe_ratio": "N/A",
-        "address": "1000 Urban Center Drive Suite 501 Birmingham, AL 35242-2225",
-        "country": "United States",
-        "employees": 121,
-        "52_week_range": "-54.45%",
-        "total_cash": "224.34M",
-        "vanguard_value": 448582148,
-        "ceo": [
-            {
-                "name": "Mr. Edward K. Aldag Jr.",
-                "title": "Founder, Chairman, President & CEO",
-                "pay": "3.91M",
-                "exercised": "--",
-                "born": "1964"
-            },
-            {
-                "name": "Mr. Larry H. Portal",
-                "title": "Senior VP & Senior Advisor to the CEO",
-                "pay": "1.49M",
-                "exercised": "--",
-                "born": "1969"
-            }
-        ]
-    },
-    {
-        "symbol": "PBR",
-        "name": "Petr\u00f3leo Brasileiro S.A. - Petrobras",
-        "price": "14.95",
-        "change": "-0.18",
-        "change_percentage": "-1.19%",
-        "volume": "13.328M",
-        "avg_volume": "18.431M",
-        "market_cap": "96.397B",
-        "pe_ratio": "4.35",
-        "address": "Avenida Henrique Valadares, 28 19th floor Rio De Janeiro, RJ 20241-030",
-        "country": "Brazil",
-        "employees": 46730,
-        "52_week_range": "7.32%",
-        "total_cash": "81.76B",
-        "vanguard_value": 0,
-        "ceo": [
-            {
-                "name": "Ms. Magda Maria de Regina Chambriard",
-                "title": "CEO & Non-Independent Director",
+                "name": "Mr. David  Velez-Osomo",
+                "title": "Founder, Chairman & CEO",
                 "pay": "--",
                 "exercised": "--",
                 "born": "--"
@@ -2186,257 +340,762 @@
         ]
     },
     {
-        "symbol": "BTG",
-        "name": "B2Gold Corp.",
-        "price": "2.9800",
-        "change": "-0.0800",
-        "change_percentage": "-2.61%",
-        "volume": "11.573M",
-        "avg_volume": "10.566M",
-        "market_cap": "3.901B",
-        "pe_ratio": "N/A",
-        "address": "Park Place Suite 3400 666 Burrard Street Vancouver, BC V6C 2X8",
-        "country": "Canada",
-        "employees": "--",
-        "52_week_range": "-17.45%",
-        "total_cash": "567.81M",
-        "vanguard_value": 0,
-        "ceo": [
-            {
-                "name": "Mr. Clive Thomas Johnson",
-                "title": "President, CEO & Director",
-                "pay": "1.91M",
-                "exercised": "--",
-                "born": "1958"
-            }
-        ]
-    },
-    {
-        "symbol": "FHN",
-        "name": "First Horizon Corporation",
-        "price": "16.20",
-        "change": "-0.24",
-        "change_percentage": "-1.46%",
-        "volume": "11.161M",
-        "avg_volume": "6.788M",
-        "market_cap": "8.699B",
-        "pe_ratio": "11.25",
-        "address": "165 Madison Avenue 23th floor Memphis, TN 38103",
+        "symbol": "AMD",
+        "name": "Advanced Micro Devices, Inc.",
+        "price": "154.08",
+        "change": "+2.50",
+        "change_percentage": "+1.65%",
+        "volume": "23.468M",
+        "avg_volume": "51.384M",
+        "market_cap": "249.041B",
+        "pe_ratio": "220.11",
+        "address": "2485 Augustine Drive Santa Clara, CA 95054",
         "country": "United States",
-        "employees": 7297,
-        "52_week_range": "28.27%",
-        "total_cash": "4.16B",
-        "vanguard_value": 1018848053,
+        "employees": 26000,
+        "52_week_range": "37.04%",
+        "total_cash": "6.03B",
+        "vanguard_value": 19201497923,
+        "shares": "124.58M",
+        "date_reported": "Mar 31, 2024",
+        "out": "7.71%",
         "ceo": [
             {
-                "name": "Mr. D. Bryan Jordan",
-                "title": "Chairman, President & CEO",
+                "name": "Dr. Lisa T. Su Ph.D.",
+                "title": "Chair, President & CEO",
                 "pay": "2.66M",
-                "exercised": "1.81M",
-                "born": "1962"
+                "exercised": "120.4M",
+                "born": "1970"
             }
         ]
     },
     {
-        "symbol": "CX",
-        "name": "CEMEX, S.A.B. de C.V.",
-        "price": "6.34",
-        "change": "-0.13",
-        "change_percentage": "-2.01%",
-        "volume": "11.452M",
-        "avg_volume": "7.103M",
-        "market_cap": "9.425B",
-        "pe_ratio": "45.29",
-        "address": "Avenida Ricardo Marg\u00e1in Zozaya #325 Colonia Valle del Campestre San Pedro Garza Garc\u00eda, NL 66265",
-        "country": "Mexico",
-        "employees": 46134,
-        "52_week_range": "-14.44%",
-        "total_cash": "475.69M",
-        "vanguard_value": 0,
+        "symbol": "BAC",
+        "name": "Bank of America Corporation",
+        "price": "42.45",
+        "change": "-0.45",
+        "change_percentage": "-1.04%",
+        "volume": "21.561M",
+        "avg_volume": "35.058M",
+        "market_cap": "330.051B",
+        "pe_ratio": "14.90",
+        "address": "Bank of America Corporate Center 100 North Tryon Street Charlotte, NC 28255",
+        "country": "United States",
+        "employees": 212318,
+        "52_week_range": "31.39%",
+        "total_cash": "1.01T",
+        "vanguard_value": 20679588550,
+        "shares": "487.67M",
+        "date_reported": "Mar 31, 2024",
+        "out": "6.24%",
         "ceo": [
             {
-                "name": "Mr. Fernando Angel Gonzalez Olivieri",
-                "title": "CEO & Non-Independent Director",
+                "name": "Mr. Brian Thomas Moynihan",
+                "title": "Chairman, CEO & President",
+                "pay": "1.89M",
+                "exercised": "--",
+                "born": "1959"
+            }
+        ]
+    },
+    {
+        "symbol": "NIO",
+        "name": "NIO Inc.",
+        "price": "4.6499",
+        "change": "+0.1899",
+        "change_percentage": "+4.26%",
+        "volume": "21.442M",
+        "avg_volume": "51.213M",
+        "market_cap": "9.866B",
+        "pe_ratio": "N/A",
+        "address": "Building 20 No. 56 AnTuo Road Anting Town Jiading District Shanghai, 201804",
+        "country": "China",
+        "employees": 32820,
+        "52_week_range": "-61.98%",
+        "total_cash": "38.43B",
+        "vanguard_value": 290402501,
+        "shares": "62.64M",
+        "date_reported": "Mar 31, 2024",
+        "out": "3.99%",
+        "ceo": [
+            {
+                "name": "Mr. William  Li",
+                "title": "Co-Founder, Chairman & CEO",
                 "pay": "--",
                 "exercised": "--",
-                "born": "1954"
+                "born": "1974"
             }
         ]
     },
     {
-        "symbol": "TEVA",
-        "name": "Teva Pharmaceutical Industries Limited",
-        "price": "16.34",
-        "change": "-0.04",
-        "change_percentage": "-0.24%",
-        "volume": "10.913M",
-        "avg_volume": "9.974M",
-        "market_cap": "18.507B",
-        "pe_ratio": "N/A",
-        "address": "124 Dvora HaNevi\u2019a Street Tel Aviv, 6944020",
-        "country": "Israel",
-        "employees": 35001,
-        "52_week_range": "92.01%",
-        "total_cash": "2.99B",
-        "vanguard_value": 720248508,
+        "symbol": "AAL",
+        "name": "American Airlines Group Inc.",
+        "price": "10.69",
+        "change": "+0.11",
+        "change_percentage": "+1.09%",
+        "volume": "21.056M",
+        "avg_volume": "33.934M",
+        "market_cap": "7.017B",
+        "pe_ratio": "15.06",
+        "address": "1 Skyview Drive Fort Worth, TX 76155",
+        "country": "United States",
+        "employees": 132800,
+        "52_week_range": "-37.26%",
+        "total_cash": "9.1B",
+        "vanguard_value": 425240569,
+        "shares": "39.99M",
+        "date_reported": "Mar 31, 2024",
+        "out": "6.09%",
         "ceo": [
             {
-                "name": "Mr. Richard D. Francis",
+                "name": "Mr. Robert D. Isom Jr.",
+                "title": "CEO, President & Director",
+                "pay": "11.94M",
+                "exercised": "--",
+                "born": "1964"
+            }
+        ]
+    },
+    {
+        "symbol": "AAPL",
+        "name": "Apple Inc.",
+        "price": "223.46",
+        "change": "-0.85",
+        "change_percentage": "-0.38%",
+        "volume": "20.647M",
+        "avg_volume": "68.347M",
+        "market_cap": "3.426T",
+        "pe_ratio": "34.70",
+        "address": "One Apple Park Way Cupertino, CA 95014",
+        "country": "United States",
+        "employees": 150000,
+        "52_week_range": "16.37%",
+        "total_cash": "67.15B",
+        "vanguard_value": 232837927006,
+        "shares": "1.04B",
+        "date_reported": "Mar 31, 2024",
+        "out": "6.79%",
+        "ceo": [
+            {
+                "name": "Mr. Timothy D. Cook",
+                "title": "CEO & Director",
+                "pay": "16.24M",
+                "exercised": "--",
+                "born": "1961"
+            }
+        ]
+    },
+    {
+        "symbol": "CLSK",
+        "name": "CleanSpark, Inc.",
+        "price": "17.54",
+        "change": "-0.30",
+        "change_percentage": "-1.68%",
+        "volume": "19.282M",
+        "avg_volume": "30.621M",
+        "market_cap": "3.997B",
+        "pe_ratio": "134.92",
+        "address": "10624 S. Eastern Ave. Suite A -638 Henderson, NV 89052",
+        "country": "United States",
+        "employees": 130,
+        "52_week_range": "191.98%",
+        "total_cash": "320.84M",
+        "vanguard_value": 266113640,
+        "shares": "15.32M",
+        "date_reported": "Mar 31, 2024",
+        "out": "0.00%",
+        "ceo": [
+            {
+                "name": "Mr. Zachary K. Bradford",
+                "title": "CEO, President & Director",
+                "pay": "3.55M",
+                "exercised": "--",
+                "born": "1986"
+            }
+        ]
+    },
+    {
+        "symbol": "SOFI",
+        "name": "SoFi Technologies, Inc.",
+        "price": "7.45",
+        "change": "-0.02",
+        "change_percentage": "-0.33%",
+        "volume": "19.208M",
+        "avg_volume": "39.992M",
+        "market_cap": "7.871B",
+        "pe_ratio": "N/A",
+        "address": "234 1st Street San Francisco, CA 94105",
+        "country": "United States",
+        "employees": 4400,
+        "52_week_range": "-20.95%",
+        "total_cash": "3.7B",
+        "vanguard_value": 309108462,
+        "shares": "41.8M",
+        "date_reported": "Mar 31, 2024",
+        "out": "3.95%",
+        "ceo": [
+            {
+                "name": "Mr. Anthony J. Noto",
+                "title": "CEO & Director",
+                "pay": "4.07M",
+                "exercised": "--",
+                "born": "1969"
+            },
+            {
+                "name": "Mr. Derek Jensen White",
+                "title": "CEO of Galileo Financial Technologies & Head of SoFi International",
+                "pay": "1.13M",
+                "exercised": "--",
+                "born": "1973"
+            }
+        ]
+    },
+    {
+        "symbol": "ERIC",
+        "name": "Telefonaktiebolaget LM Ericsson (publ)",
+        "price": "6.71",
+        "change": "+0.14",
+        "change_percentage": "+2.13%",
+        "volume": "18.985M",
+        "avg_volume": "15.044M",
+        "market_cap": "22.702B",
+        "pe_ratio": "N/A",
+        "address": "Torshamnsgatan 21 Kista Stockholm, 164 83",
+        "country": "Sweden",
+        "employees": 97985,
+        "52_week_range": "28.32%",
+        "total_cash": "42.57B",
+        "vanguard_value": 0,
+        "shares": "",
+        "date_reported": "",
+        "out": "",
+        "ceo": [
+            {
+                "name": "Mr. E. Borje Ekholm MBA, MSc",
+                "title": "President, CEO, Head of Segment Enterprise & Director",
+                "pay": "30.5M",
+                "exercised": "--",
+                "born": "1963"
+            }
+        ]
+    },
+    {
+        "symbol": "T",
+        "name": "AT&T Inc.",
+        "price": "18.62",
+        "change": "-0.50",
+        "change_percentage": "-2.59%",
+        "volume": "18.981M",
+        "avg_volume": "33.047M",
+        "market_cap": "133.544B",
+        "pe_ratio": "10.01",
+        "address": "208 South Akard Street Dallas, TX 75202",
+        "country": "United States",
+        "employees": 148290,
+        "52_week_range": "27.89%",
+        "total_cash": "3.59B",
+        "vanguard_value": 9912091997,
+        "shares": "533.05M",
+        "date_reported": "Mar 31, 2024",
+        "out": "7.43%",
+        "ceo": [
+            {
+                "name": "Mr. John T. Stankey",
+                "title": "CEO, President & Director",
+                "pay": "9.2M",
+                "exercised": "--",
+                "born": "1963"
+            }
+        ]
+    },
+    {
+        "symbol": "LCID",
+        "name": "Lucid Group, Inc.",
+        "price": "3.5152",
+        "change": "+0.0152",
+        "change_percentage": "+0.43%",
+        "volume": "18.517M",
+        "avg_volume": "29.437M",
+        "market_cap": "8.11B",
+        "pe_ratio": "N/A",
+        "address": "7373 Gateway Boulevard Newark, CA 94560",
+        "country": "United States",
+        "employees": 6500,
+        "52_week_range": "-51.19%",
+        "total_cash": "3.99B",
+        "vanguard_value": 143539799,
+        "shares": "40.84M",
+        "date_reported": "Mar 31, 2024",
+        "out": "1.77%",
+        "ceo": [
+            {
+                "name": "Mr. Peter Dore Rawlinson",
+                "title": "CEO, CTO & Director",
+                "pay": "6.84M",
+                "exercised": "610.84k",
+                "born": "1959"
+            }
+        ]
+    },
+    {
+        "symbol": "INTC",
+        "name": "Intel Corporation",
+        "price": "32.92",
+        "change": "-0.06",
+        "change_percentage": "-0.18%",
+        "volume": "18.338M",
+        "avg_volume": "49.452M",
+        "market_cap": "140.136B",
+        "pe_ratio": "33.94",
+        "address": "2200 Mission College Boulevard Santa Clara, CA 95054-1549",
+        "country": "United States",
+        "employees": 130700,
+        "52_week_range": "-1.93%",
+        "total_cash": "21.31B",
+        "vanguard_value": 11310252931,
+        "shares": "343.93M",
+        "date_reported": "Mar 31, 2024",
+        "out": "8.08%",
+        "ceo": [
+            {
+                "name": "Mr. Patrick P. Gelsinger",
+                "title": "CEO & Director",
+                "pay": "4.32M",
+                "exercised": "--",
+                "born": "1961"
+            }
+        ]
+    },
+    {
+        "symbol": "AMZN",
+        "name": "Amazon.com, Inc.",
+        "price": "183.38",
+        "change": "+0.25",
+        "change_percentage": "+0.14%",
+        "volume": "16.496M",
+        "avg_volume": "42.125M",
+        "market_cap": "1.908T",
+        "pe_ratio": "51.37",
+        "address": "410 Terry Avenue North Seattle, WA 98109-5210",
+        "country": "United States",
+        "employees": 1525000,
+        "52_week_range": "42.18%",
+        "total_cash": "85.07B",
+        "vanguard_value": 117215469292,
+        "shares": "638.54M",
+        "date_reported": "Mar 31, 2024",
+        "out": "6.14%",
+        "ceo": [
+            {
+                "name": "Mr. Andrew R. Jassy",
                 "title": "President, CEO & Director",
-                "pay": "6.71M",
+                "pay": "1.72M",
                 "exercised": "--",
                 "born": "1968"
             }
         ]
     },
     {
-        "symbol": "XOM",
-        "name": "Exxon Mobil Corporation",
-        "price": "118.80",
-        "change": "+1.16",
-        "change_percentage": "+0.99%",
-        "volume": "13.027M",
-        "avg_volume": "17.155M",
-        "market_cap": "532.928B",
-        "pe_ratio": "14.56",
-        "address": "22777 Springwoods Village Parkway Spring, TX 77389-1425",
+        "symbol": "RIOT",
+        "name": "Riot Platforms, Inc.",
+        "price": "12.05",
+        "change": "+0.02",
+        "change_percentage": "+0.17%",
+        "volume": "14.816M",
+        "avg_volume": "23.89M",
+        "market_cap": "3.48B",
+        "pe_ratio": "28.69",
+        "address": "3855 Ambrosia Street Suite 301 Castle Rock, CO 80109",
         "country": "United States",
-        "employees": 62000,
-        "52_week_range": "14.35%",
-        "total_cash": "33.32B",
-        "vanguard_value": 32276401230,
+        "employees": 534,
+        "52_week_range": "-30.98%",
+        "total_cash": "688.5M",
+        "vanguard_value": 187626883,
+        "shares": "15.66M",
+        "date_reported": "Mar 31, 2024",
+        "out": "5.42%",
         "ceo": [
             {
-                "name": "Mr. Darren W. Woods",
-                "title": "Chairman of the Board, President & CEO",
-                "pay": "7.8M",
+                "name": "Mr. Jason  Les",
+                "title": "CEO & Executive Director",
+                "pay": "2.5M",
+                "exercised": "--",
+                "born": "1986"
+            }
+        ]
+    },
+    {
+        "symbol": "RIVN",
+        "name": "Rivian Automotive, Inc.",
+        "price": "17.26",
+        "change": "+0.51",
+        "change_percentage": "+3.04%",
+        "volume": "13.989M",
+        "avg_volume": "46.21M",
+        "market_cap": "17.178B",
+        "pe_ratio": "N/A",
+        "address": "14600 Myford Road Irvine, CA 92606",
+        "country": "United States",
+        "employees": 16790,
+        "52_week_range": "-35.10%",
+        "total_cash": "7.86B",
+        "vanguard_value": 817823898,
+        "shares": "47.33M",
+        "date_reported": "Mar 31, 2024",
+        "out": "4.79%",
+        "ceo": [
+            {
+                "name": "Mr. Robert Joseph Scaringe Ph.D.",
+                "title": "Founder, CEO & Chairman of the Board",
+                "pay": "1.12M",
+                "exercised": "--",
+                "born": "1984"
+            }
+        ]
+    },
+    {
+        "symbol": "S",
+        "name": "SentinelOne, Inc.",
+        "price": "23.24",
+        "change": "+1.52",
+        "change_percentage": "+7.00%",
+        "volume": "13.711M",
+        "avg_volume": "4.869M",
+        "market_cap": "7.271B",
+        "pe_ratio": "N/A",
+        "address": "444 Castro Street Suite 400 Mountain View, CA 94041",
+        "country": "United States",
+        "employees": 2400,
+        "52_week_range": "48.77%",
+        "total_cash": "773.2M",
+        "vanguard_value": 398704668,
+        "shares": "16.98M",
+        "date_reported": "Mar 31, 2024",
+        "out": "5.92%",
+        "ceo": [
+            {
+                "name": "Mr. Tomer  Weingarten",
+                "title": "Co-Founder, Chairman, President & CEO",
+                "pay": "1.49M",
+                "exercised": "24.11M",
+                "born": "1984"
+            }
+        ]
+    },
+    {
+        "symbol": "MAT",
+        "name": "Mattel, Inc.",
+        "price": "19.39",
+        "change": "+3.16",
+        "change_percentage": "+19.46%",
+        "volume": "12.831M",
+        "avg_volume": "3.42M",
+        "market_cap": "6.671B",
+        "pe_ratio": "23.65",
+        "address": "333 Continental Boulevard El Segundo, CA 90245-5012",
+        "country": "United States",
+        "employees": 33000,
+        "52_week_range": "-24.76%",
+        "total_cash": "1.13B",
+        "vanguard_value": 594682419,
+        "shares": "30.9M",
+        "date_reported": "Mar 31, 2024",
+        "out": "8.98%",
+        "ceo": [
+            {
+                "name": "Mr. Ynon  Kreiz",
+                "title": "Executive Chairman & CEO",
+                "pay": "7.54M",
                 "exercised": "--",
                 "born": "1965"
             }
         ]
     },
     {
-        "symbol": "ABT",
-        "name": "Abbott Laboratories",
-        "price": "100.07",
-        "change": "-4.61",
-        "change_percentage": "-4.40%",
-        "volume": "13.065M",
-        "avg_volume": "5.777M",
-        "market_cap": "174.085B",
-        "pe_ratio": "31.57",
-        "address": "100 Abbott Park Road Abbott Park North Chicago, IL 60064-6400",
+        "symbol": "UMC",
+        "name": "United Microelectronics Corporation",
+        "price": "7.80",
+        "change": "-0.03",
+        "change_percentage": "-0.32%",
+        "volume": "12.396M",
+        "avg_volume": "8.894M",
+        "market_cap": "19.93B",
+        "pe_ratio": "11.63",
+        "address": "Hsinchu Science Park No. 3 Li-Hsin 2nd Road Hsinchu City, 300094",
+        "country": "Taiwan",
+        "employees": 20000,
+        "52_week_range": "7.86%",
+        "total_cash": "132.2B",
+        "vanguard_value": 172705586,
+        "shares": "22.13M",
+        "date_reported": "Mar 31, 2024",
+        "out": "0.88%",
+        "ceo": []
+    },
+    {
+        "symbol": "MU",
+        "name": "Micron Technology, Inc.",
+        "price": "114.87",
+        "change": "+0.61",
+        "change_percentage": "+0.53%",
+        "volume": "12.212M",
+        "avg_volume": "21.403M",
+        "market_cap": "127.372B",
+        "pe_ratio": "N/A",
+        "address": "8000 South Federal Way Boise, ID 83716-9632",
         "country": "United States",
-        "employees": 114000,
-        "52_week_range": "-12.44%",
-        "total_cash": "6.65B",
-        "vanguard_value": 13428722654,
+        "employees": 43000,
+        "52_week_range": "74.50%",
+        "total_cash": "8.38B",
+        "vanguard_value": 10354230025,
+        "shares": "90.3M",
+        "date_reported": "Mar 31, 2024",
+        "out": "8.14%",
         "ceo": [
             {
-                "name": "Mr. Robert B. Ford",
-                "title": "Chairman of the Board, President & CEO",
-                "pay": "4.73M",
-                "exercised": "6.64M",
+                "name": "Mr. Sanjay  Mehrotra",
+                "title": "CEO, President & Director",
+                "pay": "1.53M",
+                "exercised": "2.13M",
+                "born": "1959"
+            }
+        ]
+    },
+    {
+        "symbol": "AVGO",
+        "name": "Broadcom Inc.",
+        "price": "159.74",
+        "change": "+2.39",
+        "change_percentage": "+1.52%",
+        "volume": "11.52M",
+        "avg_volume": "35.798M",
+        "market_cap": "743.571B",
+        "pe_ratio": "68.56",
+        "address": "3421 Hillview Ave Palo Alto, CA 94304",
+        "country": "United States",
+        "employees": 20000,
+        "52_week_range": "74.53%",
+        "total_cash": "11.11B",
+        "vanguard_value": 55721503918,
+        "shares": "349.08M",
+        "date_reported": "Mar 31, 2024",
+        "out": "74.99%",
+        "ceo": [
+            {
+                "name": "Mr. Hock E. Tan",
+                "title": "President, CEO & Executive Director",
+                "pay": "1.29M",
+                "exercised": "--",
+                "born": "1952"
+            }
+        ]
+    },
+    {
+        "symbol": "IREN",
+        "name": "Iris Energy Limited",
+        "price": "11.40",
+        "change": "+0.10",
+        "change_percentage": "+0.93%",
+        "volume": "11.126M",
+        "avg_volume": "15.711M",
+        "market_cap": "2.131B",
+        "pe_ratio": "N/A",
+        "address": "44 Market Street Level 12 Sydney, NSW 2000",
+        "country": "Australia",
+        "employees": 100,
+        "52_week_range": "68.91%",
+        "total_cash": "263.12M",
+        "vanguard_value": 0,
+        "shares": "",
+        "date_reported": "",
+        "out": "",
+        "ceo": [
+            {
+                "name": "Mr. William  Roberts",
+                "title": "Co-Founder, Co-CEO & Director",
+                "pay": "2.97M",
+                "exercised": "--",
+                "born": "1990"
+            },
+            {
+                "name": "Mr. Daniel  Roberts",
+                "title": "Co-Founder, Co-CEO & Director",
+                "pay": "2.97M",
+                "exercised": "--",
+                "born": "1984"
+            }
+        ]
+    },
+    {
+        "symbol": "IQ",
+        "name": "iQIYI, Inc.",
+        "price": "3.3300",
+        "change": "-0.1700",
+        "change_percentage": "-4.86%",
+        "volume": "11.111M",
+        "avg_volume": "9.764M",
+        "market_cap": "3.196B",
+        "pe_ratio": "11.89",
+        "address": "iQIYI Youth Center 4th Floor,Yoolee Plaza No. 21, N. Rd of Workers\u2019 Stadium Chaoyang Dist. Beijing, 100027",
+        "country": "China",
+        "employees": 4788,
+        "52_week_range": "-34.70%",
+        "total_cash": "6.03B",
+        "vanguard_value": 65673914,
+        "shares": "19.69M",
+        "date_reported": "Mar 31, 2024",
+        "out": "3.75%",
+        "ceo": [
+            {
+                "name": "Dr. Yu  Gong",
+                "title": "Founder, CEO & Director",
+                "pay": "--",
+                "exercised": "--",
+                "born": "1969"
+            }
+        ]
+    },
+    {
+        "symbol": "TSM",
+        "name": "Taiwan Semiconductor Manufacturing Company Limited",
+        "price": "167.50",
+        "change": "+1.73",
+        "change_percentage": "+1.04%",
+        "volume": "10.938M",
+        "avg_volume": "15.538M",
+        "market_cap": "868.668B",
+        "pe_ratio": "32.46",
+        "address": "Hsinchu Science Park No. 8, Li-Hsin Road 6 Hsinchu City, 300096",
+        "country": "Taiwan",
+        "employees": "--",
+        "52_week_range": "68.72%",
+        "total_cash": "2.05T",
+        "vanguard_value": 2521859597,
+        "shares": "15M",
+        "date_reported": "Mar 31, 2024",
+        "out": "0.29%",
+        "ceo": [
+            {
+                "name": "Dr. C. C.  Wei",
+                "title": "Chairman & CEO",
+                "pay": "14.08M",
+                "exercised": "--",
+                "born": "--"
+            }
+        ]
+    },
+    {
+        "symbol": "ET",
+        "name": "Energy Transfer LP",
+        "price": "16.27",
+        "change": "-0.17",
+        "change_percentage": "-1.00%",
+        "volume": "10.909M",
+        "avg_volume": "11.649M",
+        "market_cap": "54.87B",
+        "pe_ratio": "14.93",
+        "address": "8111 Westchester Drive Suite 600 Dallas, TX 75225",
+        "country": "United States",
+        "employees": 13786,
+        "52_week_range": "23.80%",
+        "total_cash": "1.95B",
+        "vanguard_value": 0,
+        "shares": "",
+        "date_reported": "",
+        "out": "",
+        "ceo": [
+            {
+                "name": "Mr. Marshall S. McCrea III",
+                "title": "Co-CEO & Director of LE GP, LLC",
+                "pay": "3.76M",
+                "exercised": "--",
+                "born": "1959"
+            },
+            {
+                "name": "Mr. Thomas E. Long",
+                "title": "Co-CEO & Director of LE GP, LLC",
+                "pay": "3.76M",
+                "exercised": "--",
+                "born": "1957"
+            }
+        ]
+    },
+    {
+        "symbol": "ABEV",
+        "name": "Ambev S.A.",
+        "price": "2.1250",
+        "change": "+0.0150",
+        "change_percentage": "+0.71%",
+        "volume": "9.934M",
+        "avg_volume": "17.831M",
+        "market_cap": "33.662B",
+        "pe_ratio": "12.50",
+        "address": "Rua Dr. Renato Paes de Barros, 1017 3rd Floor S\u00e3o Paulo, SP 04530-001",
+        "country": "Brazil",
+        "employees": 43000,
+        "52_week_range": "-33.02%",
+        "total_cash": "13.92B",
+        "vanguard_value": 119619630,
+        "shares": "56.16M",
+        "date_reported": "Mar 31, 2024",
+        "out": "0.36%",
+        "ceo": [
+            {
+                "name": "Mr. Jean Jereissati Neto",
+                "title": "CEO & Member of Executive Board",
+                "pay": "--",
+                "exercised": "--",
                 "born": "1974"
             }
         ]
     },
     {
-        "symbol": "LYG",
-        "name": "Lloyds Banking Group plc",
-        "price": "3.0200",
-        "change": "-0.0100",
-        "change_percentage": "-0.33%",
-        "volume": "10.709M",
-        "avg_volume": "9.106M",
-        "market_cap": "47.548B",
-        "pe_ratio": "8.39",
-        "address": "25 Gresham Street London, EC2V 7HN",
-        "country": "United Kingdom",
-        "employees": 62569,
-        "52_week_range": "30.17%",
-        "total_cash": "179.46B",
-        "vanguard_value": 0,
-        "ceo": []
-    },
-    {
-        "symbol": "ASX",
-        "name": "ASE Technology Holding Co., Ltd.",
-        "price": "11.31",
-        "change": "-0.04",
-        "change_percentage": "-0.35%",
-        "volume": "10.664M",
-        "avg_volume": "5.856M",
-        "market_cap": "24.427B",
-        "pe_ratio": "23.08",
-        "address": "26, Chin 3rd Road Nanzih District Kaohsiung, 811",
-        "country": "Taiwan",
-        "employees": 91568,
-        "52_week_range": "46.31%",
-        "total_cash": "83.52B",
-        "vanguard_value": 139488151,
-        "ceo": []
-    },
-    {
-        "symbol": "PARA",
-        "name": "Paramount Global",
-        "price": "11.63",
-        "change": "-0.24",
-        "change_percentage": "-2.02%",
-        "volume": "10.645M",
-        "avg_volume": "18.007M",
-        "market_cap": "8.178B",
-        "pe_ratio": "N/A",
-        "address": "1515 Broadway New York, NY 10036",
+        "symbol": "HBAN",
+        "name": "Huntington Bancshares Incorporated",
+        "price": "15.05",
+        "change": "+0.19",
+        "change_percentage": "+1.28%",
+        "volume": "9.844M",
+        "avg_volume": "16.948M",
+        "market_cap": "21.859B",
+        "pe_ratio": "14.20",
+        "address": "Huntington Center 41 South High Street Columbus, OH 43287",
         "country": "United States",
-        "employees": 21900,
-        "52_week_range": "-25.06%",
-        "total_cash": "2.38B",
-        "vanguard_value": 583565958,
-        "ceo": []
-    },
-    {
-        "symbol": "ARM",
-        "name": "Arm Holdings plc",
-        "price": "158.33",
-        "change": "-3.37",
-        "change_percentage": "-2.08%",
-        "volume": "10.958M",
-        "avg_volume": "10.459M",
-        "market_cap": "165.905B",
-        "pe_ratio": "565.46",
-        "address": "110 Fulbourn Road Cambridge, CB1 9NJ",
-        "country": "United Kingdom",
-        "employees": 7096,
-        "52_week_range": "148.99%",
-        "total_cash": "2.92B",
-        "vanguard_value": 340932538,
+        "employees": 19889,
+        "52_week_range": "22.71%",
+        "total_cash": "12.94B",
+        "vanguard_value": 1990891652,
+        "shares": "132.64M",
+        "date_reported": "Mar 31, 2024",
+        "out": "9.15%",
         "ceo": [
             {
-                "name": "Mr. Rene  Haas",
-                "title": "CEO & Director",
-                "pay": "23.85k",
+                "name": "Mr. Stephen D. Steinour",
+                "title": "Chairman, President & CEO",
+                "pay": "4.1M",
                 "exercised": "--",
-                "born": "1962"
+                "born": "1959"
             }
         ]
     },
     {
         "symbol": "NKE",
         "name": "NIKE, Inc.",
-        "price": "72.38",
-        "change": "-0.69",
-        "change_percentage": "-0.94%",
-        "volume": "14.172M",
-        "avg_volume": "13.533M",
-        "market_cap": "109.247B",
-        "pe_ratio": "19.40",
+        "price": "74.53",
+        "change": "+1.83",
+        "change_percentage": "+2.52%",
+        "volume": "9.676M",
+        "avg_volume": "13.584M",
+        "market_cap": "112.493B",
+        "pe_ratio": "19.98",
         "address": "One Bowerman Drive Beaverton, OR 97005-6453",
         "country": "United States",
         "employees": "--",
-        "52_week_range": "-33.63%",
+        "52_week_range": "-33.16%",
         "total_cash": "11.58B",
-        "vanguard_value": 6436931679,
+        "vanguard_value": 6664956368,
+        "shares": "89.14M",
+        "date_reported": "Mar 31, 2024",
+        "out": "7.36%",
         "ceo": [
             {
                 "name": "Mr. John J. Donahoe II",
@@ -2448,146 +1107,183 @@
         ]
     },
     {
-        "symbol": "TOST",
-        "name": "Toast, Inc.",
-        "price": "26.51",
-        "change": "-0.11",
-        "change_percentage": "-0.41%",
-        "volume": "10.109M",
-        "avg_volume": "7.609M",
-        "market_cap": "14.717B",
+        "symbol": "NOK",
+        "name": "Nokia Oyj",
+        "price": "3.7550",
+        "change": "+0.1050",
+        "change_percentage": "+2.88%",
+        "volume": "9.528M",
+        "avg_volume": "13.107M",
+        "market_cap": "20.903B",
+        "pe_ratio": "19.76",
+        "address": "Karakaari 7 Espoo, 02610",
+        "country": "Finland",
+        "employees": 86689,
+        "52_week_range": "-7.83%",
+        "total_cash": "8.72B",
+        "vanguard_value": 19070988,
+        "shares": "5.09M",
+        "date_reported": "Mar 31, 2024",
+        "out": "0.09%",
+        "ceo": [
+            {
+                "name": "Mr. Pekka Ilmari Lundmark M.Sc.(Eng.)",
+                "title": "President & CEO",
+                "pay": "2.72M",
+                "exercised": "--",
+                "born": "1963"
+            }
+        ]
+    },
+    {
+        "symbol": "SIRI",
+        "name": "Sirius XM Holdings Inc.",
+        "price": "3.3900",
+        "change": "-0.0150",
+        "change_percentage": "-0.44%",
+        "volume": "9.173M",
+        "avg_volume": "40.427M",
+        "market_cap": "13.04B",
+        "pe_ratio": "10.27",
+        "address": "1221 Avenue of the Americas 35th Floor New York, NY 10020",
+        "country": "United States",
+        "employees": 5680,
+        "52_week_range": "-43.17%",
+        "total_cash": "71M",
+        "vanguard_value": 148438731,
+        "shares": "43.79M",
+        "date_reported": "Mar 31, 2024",
+        "out": "1.14%",
+        "ceo": [
+            {
+                "name": "Ms. Jennifer C. Witz",
+                "title": "CEO & Director",
+                "pay": "7.16M",
+                "exercised": "--",
+                "born": "1969"
+            }
+        ]
+    },
+    {
+        "symbol": "WBD",
+        "name": "Warner Bros. Discovery, Inc.",
+        "price": "8.31",
+        "change": "-0.36",
+        "change_percentage": "-4.09%",
+        "volume": "9.155M",
+        "avg_volume": "30.027M",
+        "market_cap": "20.374B",
         "pe_ratio": "N/A",
-        "address": "401 Park Drive Suite 801 Boston, MA 02215",
+        "address": "230 Park Avenue South New York, NY 10003",
         "country": "United States",
-        "employees": 5500,
-        "52_week_range": "20.72%",
-        "total_cash": "1.12B",
-        "vanguard_value": 557481445,
+        "employees": 35300,
+        "52_week_range": "-31.25%",
+        "total_cash": "3.07B",
+        "vanguard_value": 1320122532,
+        "shares": "157.63M",
+        "date_reported": "Mar 31, 2024",
+        "out": "6.43%",
         "ceo": [
             {
-                "name": "Mr. Aman  Narang",
-                "title": "Co-Founder, CEO & Director",
-                "pay": "20k",
+                "name": "Mr. David M. Zaslav",
+                "title": "President, CEO & Director",
+                "pay": "26.62M",
                 "exercised": "--",
-                "born": "1983"
-            }
-        ]
-    },
-    {
-        "symbol": "HPE",
-        "name": "Hewlett Packard Enterprise Company",
-        "price": "20.67",
-        "change": "-0.14",
-        "change_percentage": "-0.67%",
-        "volume": "10.713M",
-        "avg_volume": "16.771M",
-        "market_cap": "26.864B",
-        "pe_ratio": "15.09",
-        "address": "1701 East Mossy Oaks Road Spring, TX 77389",
-        "country": "United States",
-        "employees": 62000,
-        "52_week_range": "19.76%",
-        "total_cash": "2.12B",
-        "vanguard_value": 2511414228,
-        "ceo": [
+                "born": "1960"
+            },
             {
-                "name": "Mr. Antonio Fabio Neri",
-                "title": "CEO, President & Director",
-                "pay": "4.49M",
-                "exercised": "--",
-                "born": "1967"
-            }
-        ]
-    },
-    {
-        "symbol": "HAL",
-        "name": "Halliburton Company",
-        "price": "36.44",
-        "change": "+0.08",
-        "change_percentage": "+0.22%",
-        "volume": "11.431M",
-        "avg_volume": "7.651M",
-        "market_cap": "32.26B",
-        "pe_ratio": "12.65",
-        "address": "3000 North Sam Houston Parkway East Houston, TX 77032",
-        "country": "United States",
-        "employees": 49000,
-        "52_week_range": "-1.35%",
-        "total_cash": "1.89B",
-        "vanguard_value": 2619724729,
-        "ceo": [
-            {
-                "name": "Mr. Jeffrey Allen Miller",
-                "title": "President, CEO & Chairman",
-                "pay": "12.89M",
-                "exercised": "--",
-                "born": "1964"
-            }
-        ]
-    },
-    {
-        "symbol": "JOBY",
-        "name": "Joby Aviation, Inc.",
-        "price": "6.97",
-        "change": "-0.09",
-        "change_percentage": "-1.27%",
-        "volume": "10.734M",
-        "avg_volume": "6.135M",
-        "market_cap": "4.938B",
-        "pe_ratio": "N/A",
-        "address": "333 Encinal Street Santa Cruz, CA 95060",
-        "country": "United States",
-        "employees": 1777,
-        "52_week_range": "-15.62%",
-        "total_cash": "923.89M",
-        "vanguard_value": 141403949,
-        "ceo": [
-            {
-                "name": "Mr. JoeBen  Bevirt",
-                "title": "Founder, CEO, Chief Architect, President & Director",
-                "pay": "623.62k",
-                "exercised": "--",
-                "born": "1974"
-            }
-        ]
-    },
-    {
-        "symbol": "NEE",
-        "name": "NextEra Energy, Inc.",
-        "price": "71.67",
-        "change": "+0.77",
-        "change_percentage": "+1.09%",
-        "volume": "10.212M",
-        "avg_volume": "11.663M",
-        "market_cap": "147.248B",
-        "pe_ratio": "19.58",
-        "address": "700 Universe Boulevard Juno Beach, FL 33408",
-        "country": "United States",
-        "employees": 16800,
-        "52_week_range": "-5.57%",
-        "total_cash": "1.64B",
-        "vanguard_value": 10830047629,
-        "ceo": [
-            {
-                "name": "Mr. John W. Ketchum",
-                "title": "President, CEO & Chairman",
-                "pay": "6.61M",
+                "name": "Mr. Jean-Briac  Perrette",
+                "title": "President and CEO of Global Streaming & Games",
+                "pay": "9.18M",
                 "exercised": "--",
                 "born": "1971"
-            },
+            }
+        ]
+    },
+    {
+        "symbol": "WBA",
+        "name": "Walgreens Boots Alliance, Inc.",
+        "price": "11.09",
+        "change": "+0.07",
+        "change_percentage": "+0.68%",
+        "volume": "9.013M",
+        "avg_volume": "17.449M",
+        "market_cap": "9.569B",
+        "pe_ratio": "N/A",
+        "address": "108 Wilmot Road Deerfield, IL 60015",
+        "country": "United States",
+        "employees": 206000,
+        "52_week_range": "-64.07%",
+        "total_cash": "711M",
+        "vanguard_value": 755263408,
+        "shares": "68.13M",
+        "date_reported": "Mar 31, 2024",
+        "out": "7.89%",
+        "ceo": [
             {
-                "name": "Mr. Armando  Pimentel Jr.",
-                "title": "President & CEO of Florida Power & Light Company",
-                "pay": "3.1M",
-                "exercised": "3.66M",
-                "born": "1963"
-            },
-            {
-                "name": "Ms. Rebecca J. Kujawa",
-                "title": "President & CEO of NextEra Energy Resources",
-                "pay": "3.3M",
+                "name": "Mr. Timothy C. Wentworth",
+                "title": "CEO & Director",
+                "pay": "--",
                 "exercised": "--",
-                "born": "1976"
+                "born": "1960"
+            }
+        ]
+    },
+    {
+        "symbol": "GOOGL",
+        "name": "Alphabet Inc.",
+        "price": "181.58",
+        "change": "+3.92",
+        "change_percentage": "+2.21%",
+        "volume": "9.007M",
+        "avg_volume": "24.805M",
+        "market_cap": "2.254T",
+        "pe_ratio": "27.85",
+        "address": "1600 Amphitheatre Parkway Mountain View, CA 94043",
+        "country": "United States",
+        "employees": 180895,
+        "52_week_range": "46.19%",
+        "total_cash": "108.09B",
+        "vanguard_value": 75630451085,
+        "shares": "415.9M",
+        "date_reported": "Mar 31, 2024",
+        "out": "7.08%",
+        "ceo": [
+            {
+                "name": "Mr. Sundar  Pichai",
+                "title": "CEO & Director",
+                "pay": "8.8M",
+                "exercised": "--",
+                "born": "1973"
+            }
+        ]
+    },
+    {
+        "symbol": "BTE",
+        "name": "Baytex Energy Corp.",
+        "price": "3.7050",
+        "change": "-0.0050",
+        "change_percentage": "-0.13%",
+        "volume": "8.741M",
+        "avg_volume": "8.947M",
+        "market_cap": "2.996B",
+        "pe_ratio": "N/A",
+        "address": "Centennial Place, East Tower Suite 2800 520 - 3rd Avenue SW Calgary, AB T2P 0R3",
+        "country": "Canada",
+        "employees": "--",
+        "52_week_range": "0.82%",
+        "total_cash": "29.14M",
+        "vanguard_value": 0,
+        "shares": "",
+        "date_reported": "",
+        "out": "",
+        "ceo": [
+            {
+                "name": "Mr. Eric Thomas Greager",
+                "title": "President, CEO & Director",
+                "pay": "1.05M",
+                "exercised": "--",
+                "born": "1970"
             }
         ]
     }

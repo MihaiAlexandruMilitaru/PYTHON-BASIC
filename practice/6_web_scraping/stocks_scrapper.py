@@ -114,6 +114,9 @@ for offset in offsets:
         # table with class 'svelte-1s2g2lo'
 
         vanguard_value = 0
+        shares = ''
+        date_reported = ''
+        out = ''
 
         try:
             holders_table = holders_soup.find_all('table', {'class': 'yf-1s2g2l0'})[0]
@@ -126,7 +129,17 @@ for offset in offsets:
                 if 'Blackrock Inc.' in content_array:
                     vanguard_value_str = content_array[4]
                     vanguard_value = int(vanguard_value_str.replace(',', '')) if vanguard_value_str != '--' else 0
+                    shares_str = content_array[1]
+                    date_reported = content_array[2]
+                    out_str = content_array[3]
+
+                    shares = shares_str
+                    out = out_str
+                    
         except AttributeError:
+            print('No holders table found')
+            continue
+        except IndexError:
             print('No holders table found')
             continue
 
@@ -171,6 +184,9 @@ for offset in offsets:
             '52_week_range': week_range,
             'total_cash': total_cash,
             'vanguard_value': vanguard_value,
+            'shares': shares,
+            'date_reported': date_reported,
+            'out': out,
             'ceo': ceo_array,
         }
         companies.append(company)

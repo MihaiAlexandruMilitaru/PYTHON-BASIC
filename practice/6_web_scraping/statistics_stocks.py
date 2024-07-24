@@ -68,7 +68,62 @@ def task2():
 
     print("Formatted table has been written to stocks_table.txt")
 
+def task3():
+    # Sheet's fields: Name, Code, Shares, Date Reported, % Out, Value.
+    with open(json_file, 'r') as file:
+        companies = json.load(file)
+
+    blackrock = []
+
+    for company in companies:
+        blackrock.append({
+                    'name': company['name'],
+                    'code': company['symbol'],
+                    'shares': company['shares'],
+                    'date_reported': company['date_reported'],
+                    'out': company['out'],
+                    'value': company['vanguard_value']
+        })
+
+    # sort after van guard value
+    sorted_blackrock = sorted(blackrock, key=lambda x: -float(x['value']))
+    sheet = [['Name', 'Code', 'Shares', 'Date Reported', '% Out', 'Value']]
+    for b in sorted_blackrock[:10]:
+        sheet.append([b['name'], b['code'], b['shares'], b['date_reported'], b['out'], b['value']])
+
+    formatted_table = tabulate(sheet, headers='firstrow', tablefmt='grid')
+
+    with open('blackrock_table.txt', 'w') as f:
+        f.write(formatted_table)
+
+    print("Formatted table has been written to blackrock_table.txt")
+
+
+# if __name__ == '__main__':
+#     task1()
+#     task2()
+#     task3()
+
+# make tests for the functions only to see if they filled the tables, not checking the content
+
+def test_task1():
+    task1()
+    with open('ceo_table.txt', 'r') as f:
+        assert f.read() != ''
+
+def test_task2():
+    task2()
+    with open('stocks_table.txt', 'r') as f:
+        assert f.read() != ''
+
+def test_task3():
+    task3()
+    with open('blackrock_table.txt', 'r') as f:
+        assert f.read() != ''
+
 
 if __name__ == '__main__':
-    task1()
-    task2()
+    test_task1()
+    test_task2()
+    test_task3()
+    print("All tests passed successfully!")
