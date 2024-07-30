@@ -1,4 +1,8 @@
+import concurrent.futures
 import os
+from concurrent.futures.thread import ThreadPoolExecutor
+from concurrent.futures.process import ProcessPoolExecutor
+import time
 from random import randint
 import csv
 import threading
@@ -19,58 +23,35 @@ def fib(n: int):
         f0, f1 = f1, f0 + f1
     return f1
 
+def worker_function(n):
+    result = fib(n)
+    file_name = f'{OUTPUT_DIR}/{n}.txt'
+    with open(file_name, 'w') as file:
+        file.write(str(result))
+
 
 def func1(array: list):
-    numbers = []
-    threads = []
 
-    def thread_func(n):
-        result = fib(n)
-        numbers.append((n, result))
+    workers = 8
+    with concurrent.futures.ProcessPoolExecutor(max_workers=workers) as executor:
+        executor.map(worker_function, array)
 
-    for n in array:
-        thread = threading.Thread(target=thread_func, args=(n,))
-        threads.append(thread)
-        thread.start()
-
-    for thread in threads:
-        thread.join()
-
-    numbers.sort(key=lambda x: x[0])
-
-    for nr in numbers:
-        file_name = f'{OUTPUT_DIR}/{nr[0]}.txt'
-        with open(file_name, 'w') as file:
-            file.write(str(nr[1]))
-
+def worker_function2(file_name):
+    n = int(file_name.split('.')[0])
+    result = fib(n)
+    with open(RESULT_FILE, 'a', newline='') as file:
+        writer = csv.writer(file)
+        writer.writerow([n, result])
 
 def func2(result_file: str):
-
-    def thread_func(n, result):
-        with open(result_file, 'a', newline='') as file:
-            writer = csv.writer(file)
-            writer.writerow([n, result])
-
+    all_file = os.listdir(OUTPUT_DIR)
     with open(result_file, 'w', newline='') as file:
         writer = csv.writer(file)
-        writer.writerow(['Input', 'Result'])
+        writer.writerow(['n', 'fib(n)'])
 
-    threads = []
-
-    # Read files from the output directory
-    for file_name in os.listdir(OUTPUT_DIR):
-        with open(f'{OUTPUT_DIR}/{file_name}', 'r') as file:
-            try:
-                n = int(file_name.split('.')[0])
-            except ValueError:
-                continue
-            result = int(file.read())
-            thread = threading.Thread(target=thread_func, args=(n, result))
-            threads.append(thread)
-            thread.start()
-
-    for thread in threads:
-        thread.join()
+    workers = 8
+    with concurrent.futures.ProcessPoolExecutor(max_workers=workers) as executor:
+        executor.map(worker_function2, all_file)
 
 
 
@@ -78,5 +59,11 @@ if __name__ == '__main__':
     if not os.path.exists(OUTPUT_DIR):
         os.makedirs(OUTPUT_DIR)
 
+    start = time.time()
+
     func1(array=[randint(10, 100) for _ in range(10)])
     func2(result_file=RESULT_FILE)
+
+    end = time.time()
+
+    print(f"Execution time: {end - start}")
